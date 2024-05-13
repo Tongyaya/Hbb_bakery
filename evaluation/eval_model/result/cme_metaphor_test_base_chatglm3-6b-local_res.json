@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./data/cme_metaphor_test_base_chatglm3-6b-local.json",
+    "f1_score": 0.9896876841484974,
+    "precision": 1.0,
+    "recall": 0.9795858850976962,
+    "tp": 3359,
+    "fp": 0,
+    "fn": 70,
+    "total": 3447
+  }
+]

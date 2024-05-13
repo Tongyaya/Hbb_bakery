@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./data/cme_metaphor_test_base_chatgpt.json",
+    "f1_score": 0.9852568875651526,
+    "precision": 1.0,
+    "recall": 0.9709421778690931,
+    "tp": 3308,
+    "fp": 0,
+    "fn": 99,
+    "total": 3447
+  }
+]

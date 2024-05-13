@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./data/ccl_test_base_chatglm3-6b-local.json",
+    "f1_score": 0.9236790606653621,
+    "precision": 0.9496981891348089,
+    "recall": 0.8990476190476191,
+    "tp": 944,
+    "fp": 50,
+    "fn": 106,
+    "total": 1100
+  }
+]
