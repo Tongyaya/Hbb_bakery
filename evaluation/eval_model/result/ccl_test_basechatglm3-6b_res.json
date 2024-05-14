@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/ccl_test_basechatglm3-6b.json",
+    "f1_score": 0.9714820009350164,
+    "precision": 0.9567219152854513,
+    "recall": 0.9867046533713201,
+    "tp": 1039,
+    "fp": 47,
+    "fn": 14,
+    "total": 1100
+  }
+]

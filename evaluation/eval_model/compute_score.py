@@ -9,7 +9,7 @@ def calculate_f1_score(tp, fp, fn):
     return f1_score,precision,recall
 
 def scorecompute(file_path):
-    prefix_path = './data/'
+    prefix_path = './model_output/'
     
     debug_path = './debug/'+file_path.replace('.json','_debug.json')
     result_path = './result/'+file_path.replace('.json','_res.json')
@@ -55,5 +55,5 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'cme_metaphor_test_base_chatgpt.json'
+file_path = 'ccl_test_base_chatglm3-6b.json'
 scorecompute(file_path)
