@@ -1,5 +1,5 @@
 # model
-model_name_or_path: /data/huboxiang/myllm/chatglm3-6b
+model_name_or_path: /data/huboxiang/myllm/llama3-8b-instruct
 
 # method
 stage: sft
@@ -11,8 +11,8 @@ ddp_timeout: 180000000
 deepspeed: myscripts/ds_z3_config.json
 
 # dataset
-dataset: ccl_train_base
-template: chatglm3
+dataset: MOH-X_train
+template: llama3
 cutoff_len: 1024
 max_samples: 2000
 val_size: 0.1
@@ -20,7 +20,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 # output
-output_dir: saves/chatglm3-6b/full/sft-ccl_train_base
+output_dir: saves/llama3-8b-instruct/full/sft-ccl_train_base
 logging_steps: 10
 save_steps: 5000
 plot_loss: true

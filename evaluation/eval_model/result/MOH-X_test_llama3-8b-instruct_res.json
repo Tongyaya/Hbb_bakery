@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/MOH-X_test_llama3-8b-instruct.json",
+    "f1_score": 0.8372093023255813,
+    "precision": 0.767590618336887,
+    "recall": 0.9207161125319693,
+    "tp": 360,
+    "fp": 109,
+    "fn": 31,
+    "total": 649
+  }
+]

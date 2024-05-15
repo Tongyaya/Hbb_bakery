@@ -3,7 +3,7 @@ import json
 from tqdm import tqdm
 import os 
 
-os.environ['CUDA_VISIBLE_DEVICES'] = "2"
+os.environ['CUDA_VISIBLE_DEVICES'] = "3"
 device = "cuda" # the device to load the model onto
 
 model_path = "/data/huboxiang/metaphor/Hbb_Factory/saves/chatglm3-6b/full/sft-ccl_train_base"
@@ -12,8 +12,8 @@ tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 model = AutoModel.from_pretrained(model_path, trust_remote_code=True).half().cuda()
 model = model.eval()
 
-test_data_path = './test_data/ccl_test_base.json'
-model_output_path = test_data_path.replace('.json','chatglm3-6b.json')
+test_data_path = './test_data/cme_metaphor_test_base.json'
+model_output_path = test_data_path.replace('.json','_chatglm3-6b.json')
 with open(test_data_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
@@ -27,7 +27,7 @@ for item in tqdm(data):
     try :
         response, history = model.chat(tokenizer, str1+context, history=[])
         out.append({'input':item['input'],'label': label, 'response': response})
-        print(f'label:{label},response:{response}')
+        # print(f'label:{label},response:{response}')
     except Exception as e:
         print("ERROR:", e)
         continue

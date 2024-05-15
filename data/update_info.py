@@ -28,6 +28,6 @@ for file_name in file_names:
             continue
         else:
             info[file_name[0:-5]] = {"file_name":file_name,"file_sha1": calculate_sha1(current_folder+'/'+file_name) }
-            print(info)
+print(info)
 with open(info_path, 'w', encoding='utf-8') as json_file:
     json.dump(info, json_file, indent=2, ensure_ascii=False)

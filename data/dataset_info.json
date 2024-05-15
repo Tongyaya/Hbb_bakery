@@ -3,8 +3,12 @@
     "file_name": "cme_metaphor_train_base.json",
     "file_sha1": "6656d0b1ff30ef17776b70a0a4a8b1d97a40b3e2"
   },
+  "MOH-X_train": {
+    "file_name": "MOH-X_train.json",
+    "file_sha1": "9ef75295a53ce9a8f339921b771f5d7f8945f1ce"
+  },
   "ccl_train_base": {
     "file_name": "ccl_train_base.json",
-    "file_sha1": "3061906a5c98282c3281d4e96d393f3adb4f6234"
+    "file_sha1": "c2e587c5898338372ae6981319ad735849a7cf04"
   }
 }
