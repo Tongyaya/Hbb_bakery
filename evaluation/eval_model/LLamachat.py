@@ -6,7 +6,7 @@ import os
 os.environ['CUDA_VISIBLE_DEVICES'] = "2"
 device = "cuda" # the device to load the model onto
 
-model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/llama3-8b-instruct/full/sft-ccl_train_base'
+model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/llama2-7b-chat-hf/full/sft-VUAverb_train'
 
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path).cuda()

@@ -1,6 +1,961 @@
 [
   {
+    "input": "The invaders spread their language all over the country.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Sales were climbing after prices were lowered.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The moon glared back at itself from the lake's surface.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The cancer cells are attacking his liver.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The editors of the left- leaning paper attacked the new House Speaker.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We rotate the crops so as to maximize the use of the soil.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He injected new life into the performance.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The conversation gravitated towards politics.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The beams scanned the night sky.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "poison someone's mind.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Don't abuse the system.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The chemical clouded the liquid to which it was added.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our business was hurt by the new competition.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The fate of Bosnia lies in the hands of the West.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This poses an interesting question.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "stock prices are drifting higher.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I attacked the problem as soon as I got out of bed.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The cold pierced her bones.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The champagne flowed at the wedding.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A hot soup will revive me.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Life in the camp drained him.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Interns have to rotate for a few months.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Boys gravitate towards girls at that age.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She was besieged by so many problems that she got discouraged.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Sales were climbing after prices were lowered.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I salute your courage!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The professor plunged his students into the study of the Italian text.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Islam is fermenting Africa.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sorrow had lined his face.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Middle age dulled her appetite for travel.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the meat was swimming in a fatty gravy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The new teacher tends to steamroller.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I can't buy this story.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The exercise class drains me of energy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His lack of interest in the project reflects badly on him.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She interrupted her pregnancy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Suspense was building right from the beginning of the opera.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
     "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Their faces were clouded with sadness.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She traced the circumstances of her birth.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The bicycle looped around the tree.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The spaceship blazed out into space.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "flush the wound with antibiotics.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "stamp fruit extract the juice.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "her indifference to his amorous advances really steamed the young man.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "earthquakes convulsed the countryside.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I can not digest all this information.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We poured money into the education of our children.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The soldiers sifted through the woods.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The latest intelligence is flashed to all command posts.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "lay a responsibility on someone.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The stroke clouded memories of her youth.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "condense the contents of a book into a summary.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The government floated the ruble for a few months.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The crisis precipitated by Russia's revolution.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She radiates happiness.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They taxed him failure to appear in court.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His heart palpitated.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "only few plants can immigrate to the island.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They sifted through the job candidates.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The White House sits on Pennsylvania Avenue.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'll ping my accountant -- April 15 is nearing.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She could not recapture that feeling of happiness.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "build a modern nation.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The music swelled to a crescendo.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The hiker negociated the high mountain pass.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Unrest erupted in the country.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "communicate a disease.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The critics puffed up this Broadway production.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The businessman kited millions of dollars.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The thought of her unhappiness pricked his conscience.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They fastened various nicknames to each other.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She spelled her husband at the wheel.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her interest in butterflies absorbs her completely.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They hunted the unwanted immigrants out of the neighborhood.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "form the young child's character.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The hikers topped the mountain just before noon.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She clawed the doorknob.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the government digested the entire law into a code.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His laughter infects everyone who is in the same room.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Some people can down a pound of meat in the course of one meal.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The tooth erupted and had to be extracted.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The residents of this village adhered to Catholicism.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "he buzzed the servant.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "My skin crawled -- I was terrified.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The steering of my new car answers to the slightest touch.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her husband often abuses alcohol.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "inflate the currency.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The rules relaxed after the new director arrived.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sow suspicion or beliefs.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Inheritance may not ascend linearly.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The mother drinks in every word of her son on the stage.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She designed a good excuse for not attending classes that day.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Meteors blazed across the atmosphere.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The sun glared down on us.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She had to juggle her job and her children.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He swallowed his words.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Companies will now stampede to release their latest software.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She stuffed herself at the dinner.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He kited many checks.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The ex- boxer's job is to bounce people who want to enter this private club.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our economy precipitated into complete ruin.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Nazis swallowed the Baltic countries.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The unknown young man drifted among the invited guests.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This experience transformed her completely.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The dancer floated across the stage.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The cigar smoke curled up at the ceiling.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She scanned the newspaper headlines while waiting for the taxi.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This behavior will ruin your chances of winning the election.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A weather vane crowns the building.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Senator blistered the administration in his speech on Friday.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Actions talk louder than words.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He pumped bullets into the dummy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They clawed their way to the top of the mountain.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The immigrants were quickly absorbed into society.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The liberal party pushed for reforms.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The ostentatious way of living of the rich ignites the hatred of the poor.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "flood the market with tennis shoes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He was locked in a laughing fit.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "wallow in your success!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The problem roots in her depression.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The oscillator hunts about the correct frequency.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This office is buzzing with activity.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "trees line the riverbank.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He downed three martinis before dinner.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They were locked in embrace.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The police smashed the drug ring after they were tipped off.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The company dumped him after many years of service.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She devoured his novels.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The mountain was splashed with snow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the flowers were nodding in the breeze.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He pasted his opponent.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This vaccine will guard you against infection.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Am I supposed to swallow that story?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This play is going to ruffle some people.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The French try to sell us their image as great lovers.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Every star seemed to flare with new intensity.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We had to sharpen our arguments.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The government relaxed the curfew after most of the rebels were caught.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She pumped the witnesses for information.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The mess in his dorm room reflects on the student.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'm afraid this spells trouble!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The bullets whistled past him.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The river thundered below.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Age and experience mellowed him over the years.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the rebels had salted the fields with mines and traps.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Interest in ESP revived.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He absorbed the costs for the accident.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She is pushing fifty.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I wrestled with this decision for years.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "a terrible stench saluted our nostrils.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her optimism whistled away these worries.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The huge waves swallowed the small boat and it sank shortly thereafter.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The scream pierced the night.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "My son drifted around for years in California before going to law school.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "this may land you in jail.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He shed his image as a pushy boss.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "level criticism or charges at somebody.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "after a glass of wine, he lightened up a bit.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You are taxing my patience.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This job doesn't match my dreams.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She tugged for years to make a decent living.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The author recaptures an old idea here.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He showered her with presents.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "dashed ambitions and hopes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His mind groped to make the connection.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "deflate the currency.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The speech crowned the meeting.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The sudden fame puffed her ego.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The politician clawed his rival.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "These events could fracture the balance of power.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her efforts will redound to the general good.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Their language inclines us to believe them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The colors don't harmonize.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He sifted the information.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A rash erupted on her arms after she had touched the exotic plant.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The event engraved itself into her memory.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "One can never fully repair the suffering and losses of the Jews in the Third Reich.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fear seized the prisoners.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The old cheese was crawling with maggots.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Don't twist my words.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "juggle an account so as to hide a deficit.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When does the court of law sit?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The principal visited his rage on the students.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the theater was jampacked.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She salts her lectures with jokes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She was staggered with bills after she tried to rebuild her house following the earthquake.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This drug will sharpen your vision.",
     "label": "yes",
     "response": "no"
   },
@@ -15,13 +970,623 @@
     "response": "no"
   },
   {
-    "input": "sentence",
+    "input": "key one's actions to the voters' prevailing attitude.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This writer really fractures the language.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The bus thundered down the road.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The bad review of his work deflated his self- confidence.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The rooms communicated.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I swallowed my anger and kept quiet.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the kettle was singing.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The company matched the employees' contributions.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The news were leaked to the paper.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The book portrays the actor as a selfish person.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Republicans are floating the idea of a tax reform.",
     "label": "yes",
     "response": "no"
   },
   {
     "input": "Every summer, we visited our relatives in the country for a month.",
-    "label": "no",
-    "response": "yes"
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Tears guttered down her face.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "mount a campaign against pornography.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The listeners bolted when he discussed his strange ideas.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "fill the child with pride.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The prisoners are safely pounded.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The war inflated the economy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our new synthetic fabric breathes and is perfect for summer wear.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fear clogged her mind.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This new colleague invades my territory.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Turks erased the Armenians in 1915.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The scientists had to accommodate the new results with the existing theories.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fame redounds to the heroes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "one idea squares with the other one.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The new measures deflated the economy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This story will grab you.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sorrow was mapped on the mother's face.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The dress molds her beautiful figure.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "build a defense on nothing but the accused person's reputation.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Let them match their best athletes against ours.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "preserve the peace in the family.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The new chairman inherited many problems from the previous chair.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "steamroller the opposition.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She was crushed by his refusal of her invitation.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "horses were clogged until they were tamed.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the conversation lightened me up a bit.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She wanted to ruffle his composure.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "she snorted her disapproval of the proposed bridegroom.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She swallowed the last words of her speech.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The market is being clogged by these operations.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her feelings condensed.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Industry will stagnate if we do not stimulate our economy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The treaty neutralized the small republic.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He revived this style of opera.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Greed and ambition composed his personality.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The hydrogen binds the oxygen.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He locked his hands around her neck.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The stock market drifted upward.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the stock market plunged.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "their manes streamed like stiff black pennants in the wind.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I heard him volley a string of curses.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her optimism neutralizes his gloom.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The locks pound the water of the canal.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She was streaming with sweat.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They topped off their dinner with a cognac.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "he flashed a$ 100 bill.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His political ideas color his lectures.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "fuel the debate on creationism.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She had scraped together enough money for college.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "nagging concerns and doubts.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "society was infected by racism.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "mount a theater production.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "capture the essence of Spring.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She captured all the men's hearts.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The cancer had invaded her lungs.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "my brain is swimming after the bottle of champagne.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The current boom in the economy sucked many workers in from abroad.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "These big jets are tied to large airports.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The new moon peeped through the tree tops.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The salesman is aggressively pushing the new computer model.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He tacked together some verses.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He always wears a smile.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The crowd flowed out of the stadium.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She had to recast her image to please the electorate in her home state.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He heaped him with work.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The candidate ripped into his opponent mercilessly.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The heat scorched the countryside.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Congress condensed the three- year plan into a six- month plan.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The government bowed to the military pressure.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We rotate the lead soprano every night.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "harmonize one's goals with one's abilities.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You have shipwrecked my career.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The distinction between the two theories blurred.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "My personal feelings color my judgment in this case.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The comedian convulsed the crowd.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The guy hanging around the school is pushing drugs.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "sentence",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The critic snorted contemptuously.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The ex- slave tasted freedom shortly before she died.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "lay the foundation for a new health care plan.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "her resistance melted under his charm.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He landed several blows on his opponent's head.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The bad news shook her hopes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the sky flushed with rosy splendor.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fire had devoured our home.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The vestiges of political democracy were soon uprooted.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Some nice results emerged from the study.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The press was gagged.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This action reflects his true beliefs.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He breathed new life into the old house.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The charges were inflated.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "People were pouring out of the theater.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the butter cream smothered the cake.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our babysitter raided our refrigerator.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He squared his shoulders.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The mother was swelling with importance when she spoke of her son.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Make the people's hearts glow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The tornado ripped along the coast.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the workers spell every four hours.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He transformed into a monster.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The war uprooted many people.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The debate sharpened.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her face glowed when she came out of the sauna.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Don't bolt your food!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She drowned her trouble in alcohol.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This story would lend itself well to serialization on television.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The press photographers besieged the movie star.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He absorbed the knowledge or beliefs of his tribe.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "a man whose name is permanently stamped on our maps.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The sales tax is absorbed into the state income tax.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Senator steamrollered the bill to defeat.",
+    "label": "yes",
+    "response": "no"
   }
 ]
