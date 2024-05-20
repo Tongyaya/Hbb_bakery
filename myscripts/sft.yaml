@@ -1,5 +1,5 @@
 # model
-model_name_or_path: /data/huboxiang/myllm/llama2-7b-chat-hf
+model_name_or_path: /data/huboxiang/myllm/Qwen1.5-7B-Chat
 
 # method
 stage: sft
@@ -11,16 +11,16 @@ ddp_timeout: 180000000
 deepspeed: myscripts/ds_z3_config.json
 
 # dataset
-dataset: VUAverb_train
-template: llama2
+dataset: ccl_train_base_qwen_easy,ccl_train_base_qwen_hard
+template: qwen
 cutoff_len: 1024
-max_samples: 2000
-val_size: 0.1
+max_samples: 5000
+# val_size: 0.1
 overwrite_cache: true
 preprocessing_num_workers: 16
 
 # output
-output_dir: saves/llama2-7b-chat-hf/full/sft-VUAverb_train_30
+output_dir: saves/Qwen1.5-7B-Chat/full/sft-CL-ccl-train
 logging_steps: 10
 save_steps: 5000
 plot_loss: true
@@ -30,12 +30,12 @@ overwrite_output_dir: true
 per_device_train_batch_size: 1
 gradient_accumulation_steps: 1
 learning_rate: 0.00001
-num_train_epochs: 30.0
+num_train_epochs: 3.0
 lr_scheduler_type: cosine
 warmup_steps: 0.1
 bf16: true
 
-# eval
-per_device_eval_batch_size: 1
-evaluation_strategy: steps
-eval_steps: 500
+# # eval
+# per_device_eval_batch_size: 1
+# evaluation_strategy: steps
+# eval_steps: 500
