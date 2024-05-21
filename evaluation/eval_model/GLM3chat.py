@@ -24,13 +24,19 @@ for item in tqdm(data):
     label = item['output']
 
 # str2 = '音 越拉越长，越细，越尖锐 象山丘的轮廓终于平伏 你身体的线条也不再弯曲 象一条抽象的直线越出了这张纸'
-    try :
-        response, history = model.chat(tokenizer, str1+context, history=[])
-        out.append({'input':item['input'],'label': label, 'response': response})
-        # print(f'label:{label},response:{response}')
-    except Exception as e:
-        print("ERROR:", e)
-        continue
+    while 1 :
+        try :
+            response, history = model.chat(tokenizer, str1+context, history=[])
+            if response[0]=='是' or response[0]=='否':
+                break
+            
+            # print(f'label:{label},response:{response}')
+        except Exception as e:
+            print("ERROR:", e)
+            continue
+    out.append({'input':item['input'],'label': label, 'response': response})
 
 with open(model_output_path, 'w', encoding='utf-8') as json_file:
     json.dump(out, json_file, indent=2, ensure_ascii=False)
+
+print(f'Saved in {model_output_path}')

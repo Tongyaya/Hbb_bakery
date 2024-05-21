@@ -5,7 +5,7 @@ import os
 os.environ['CUDA_VISIBLE_DEVICES'] = "2"
 device = "cuda" # the device to load the model onto
 
-model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/Qwen1.5-7B-Chat/full/sft-ccl_train_base'
+model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/Qwen1.5-7B-Chat/full/sft-CL-ccl-train'
 
 model = AutoModelForCausalLM.from_pretrained(
     model_path,
@@ -17,7 +17,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_path)
 str1 = '比喻是一种修辞手法，通过暗示或类比来传达某种含义，在比喻中，一个概念或对象通常被用来表示另一个概念或对象。请根据以上概念判断以下句子中是否包含比喻，只回答是或否：'
 out = []
 test_data_path = './test_data/cme_metaphor_test_base.json'
-model_output_path = test_data_path.replace('.json','_ccl-train_Qwen-7b-chat.json')
+model_output_path = test_data_path.replace('./test_data/','./model_output/').replace('.json','_CL-ccl-trainn_Qwen-7b-chat.json')
 with open(test_data_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
@@ -54,3 +54,5 @@ for item in tqdm(data):
 
 with open(model_output_path, 'w', encoding='utf-8') as json_file:
     json.dump(out, json_file, indent=2, ensure_ascii=False)
+
+print(f'Saved in {model_output_path}')

@@ -55,5 +55,5 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'cme_metaphor_test_base_sft-ccl-train_Qwen-7b-chat.json'
+file_path = 'cme_metaphor_test_base_CL-ccl-trainn_Qwen-7b-chat.json'
 scorecompute(file_path)
