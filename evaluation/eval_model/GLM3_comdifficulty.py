@@ -26,15 +26,24 @@ for item in tqdm(data):
     responses = []
 # str2 = '音 越拉越长，越细，越尖锐 象山丘的轮廓终于平伏 你身体的线条也不再弯曲 象一条抽象的直线越出了这张纸'
     for i in range(10):
+        cnt = 0
         while 1 :
             try :
                 response, history = model.chat(tokenizer, str1+context, history=[])
                 if response[0]=='是' or response[0]=='否':
                     break
+                cnt += 1
+                if cnt >= 3:
+                    if label == '是':
+                        response = '否'
+                    elif label == '否':
+                        response = '是'
+                    break
                 # out.append({'input':item['input'],'label': label, 'response': response})
                 # print(f'label:{label},response:{response}')
             except Exception as e:
                 print("ERROR:", e)
+                print(context)
                 continue
         responses.append(response)
     out.append({'input':item['input'],'label': label, 'responses': responses}) 
