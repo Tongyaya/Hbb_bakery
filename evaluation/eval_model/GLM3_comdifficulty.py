@@ -12,7 +12,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
 model = AutoModel.from_pretrained(model_path, trust_remote_code=True).half().cuda()
 model = model.eval()
 
-test_data_path = './test_data/ccl_train_base.json'
+test_data_path = './test_data/ccl_meta_200.json'
 model_output_path = test_data_path.replace('./test_data/','./difficulty/glm3/').replace('.json','_glm3.json')
 with open(test_data_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -49,7 +49,7 @@ for item in tqdm(data):
     out.append({'input':item['input'],'label': label, 'responses': responses}) 
     
 
-with open(model_output_path, 'w', encoding='utf-8') as json_file:
-    json.dump(out, json_file, indent=2, ensure_ascii=False)
+    with open(model_output_path, 'w', encoding='utf-8') as json_file:
+        json.dump(out, json_file, indent=2, ensure_ascii=False)
 
 print(f'Saved in {model_output_path}')

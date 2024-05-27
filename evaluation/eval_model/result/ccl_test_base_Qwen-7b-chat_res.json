@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/ccl_test_base_Qwen-7b-chat.json",
+    "f1_score": 0.9016475287069395,
+    "precision": 0.9555555555555556,
+    "recall": 0.8534971644612477,
+    "tp": 903,
+    "fp": 42,
+    "fn": 155,
+    "total": 1100
+  }
+]

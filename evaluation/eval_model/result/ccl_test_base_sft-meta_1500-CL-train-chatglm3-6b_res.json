@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/ccl_test_base_sft-meta_1500-CL-train-chatglm3-6b.json",
+    "f1_score": 0.9210397253555664,
+    "precision": 0.9894625922023182,
+    "recall": 0.8614678899082568,
+    "tp": 939,
+    "fp": 10,
+    "fn": 151,
+    "total": 1100
+  }
+]

@@ -16,7 +16,7 @@ model = model.cuda()
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 str1 = '比喻是一种修辞手法，通过暗示或类比来传达某种含义，在比喻中，一个概念或对象通常被用来表示另一个概念或对象。请根据以上概念判断以下句子中是否包含比喻，只回答是或否：'
 out = []
-test_data_path = './test_data/ccl_train_base.json'
+test_data_path = './test_data/meta_train.json'
 model_output_path = test_data_path.replace('./test_data/','./difficulty/').replace('.json','_qwen.json')
 with open(test_data_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -59,5 +59,5 @@ for item in tqdm(data):
         responses.append(response)
     out.append({'input':item['input'],'label': label, 'responses': responses}) 
     
-with open(model_output_path, 'w', encoding='utf-8') as json_file:
-    json.dump(out, json_file, indent=2, ensure_ascii=False)
+    with open(model_output_path, 'w', encoding='utf-8') as json_file:
+        json.dump(out, json_file, indent=2, ensure_ascii=False)

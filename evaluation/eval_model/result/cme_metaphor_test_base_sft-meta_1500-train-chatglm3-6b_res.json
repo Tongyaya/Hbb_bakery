@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/cme_metaphor_test_base_sft-meta_1300-train-chatglm3-6b.json",
+    "f1_score": 0.9997098084735926,
+    "precision": 1.0,
+    "recall": 0.9994197853205686,
+    "tp": 3445,
+    "fp": 0,
+    "fn": 2,
+    "total": 3447
+  }
+]

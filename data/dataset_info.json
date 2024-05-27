@@ -15,9 +15,29 @@
     "file_name": "VUAverb_train.json",
     "file_sha1": "86145a4ecae3b37a1d3979e9848f0a63117ae6a4"
   },
+  "meta_train_glm3_easy": {
+    "file_name": "meta_train_glm3_easy.json",
+    "file_sha1": "4806425ddca6a505af5ee922e029ec7d3ac9e501"
+  },
   "ccl_train_base": {
     "file_name": "ccl_train_base.json",
     "file_sha1": "c2e587c5898338372ae6981319ad735849a7cf04"
+  },
+  "meta_train": {
+    "file_name": "meta_train.json",
+    "file_sha1": "de9eb2ba06fd4a7159ecf79858c1e82a844fd5c6"
+  },
+  "meta_train_glm3_medi": {
+    "file_name": "meta_train_glm3_medi.json",
+    "file_sha1": "4016fb0d9a7d4b44a8fd37dd786db580a47387d4"
+  },
+  "cme_metaphor_train_5000": {
+    "file_name": "cme_metaphor_train_5000.json",
+    "file_sha1": "ec86616fa079309f8af26f162538ea9c99b52583"
+  },
+  "meta_train_glm3_hard": {
+    "file_name": "meta_train_glm3_hard.json",
+    "file_sha1": "5dc1ac973c0ca797029f224f5dc294cefea88b75"
   },
   "ccl_train_base_qwen_easy": {
     "file_name": "ccl_train_base_qwen_easy.json",
