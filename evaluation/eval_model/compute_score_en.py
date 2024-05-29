@@ -25,21 +25,22 @@ def scorecompute(file_path):
         data = json.load(file)
 
     for item in data:
-        if item['label'] == item['response'] or item['label'] == item['response'][0]:
+        if item['label'] == item['response'][:3].lower() or item['label'] == item['response'][:2].lower():
             tp += 1
         else:
             temp.append(item)
     for item in temp:
-        if item['label'] == "yes" and (item['response'] == "no" or item['response'][0] == "no"):
+        if item['label'] == "yes" and (item['response'][:2].lower() == "no" ):
             fn += 1
             badcase.append(item)
-        elif item['label'] == "no" and (item['response'] == "yes" or item['response'][0] == "yes"):
+        elif item['label'] == "no" and (item['response'][:3].lower() == "yes"):
             fp += 1
             badcase.append(item)
         else:
             debug.append(item)
     # tp += 4
     # fn += 14
+    print(f'tp:{tp},fp:{fp},fn:{fn},total:{len(data)},debug:{len(debug)}')
     f1_score,precision,recall = calculate_f1_score(tp, fp, fn)
 
     res = [{'file_name':file_path,'f1_score':f1_score,'precision':precision,'recall':recall,'tp':tp,'fp':fp,"fn":fn,"total":len(data)}]
@@ -55,5 +56,5 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'MOH-X_test_MOH-X_train_llama3-8b-instruct.json'
+file_path = 'TroFi_test_CL-TroFi_train_llama2-7b-chat-hf.json'
 scorecompute(file_path)

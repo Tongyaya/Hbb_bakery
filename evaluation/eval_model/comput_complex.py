@@ -62,5 +62,5 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'MOH-X_test_llama3-8b-instruct.json'
+file_path = 'MOH-X_train_llama2-7b-chat-hf.json'
 scorecompute(file_path)

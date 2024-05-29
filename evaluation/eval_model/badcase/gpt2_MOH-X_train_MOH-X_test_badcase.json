@@ -1,0 +1,42 @@
+[
+  {
+    "input": "Our babysitter raided our refrigerator.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He squared his shoulders.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He never acknowledges his colleagues when they run into him in the hallway.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Her violent feelings palpitated the young woman's heart.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Planes buzzed the crowds in the square.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She was singing while she was cooking.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The Chinese would bind the feet of their women.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They computerized the car industry.",
+    "label": "no",
+    "response": "yes"
+  }
+]

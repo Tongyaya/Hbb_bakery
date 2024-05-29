@@ -11,7 +11,7 @@ ddp_timeout: 180000000
 deepspeed: myscripts/ds_z3_config.json
 
 # dataset
-dataset: MOH-X_train
+dataset: TroFi_train_vicuna-7b-v1.5-0_easy,TroFi_train_vicuna-7b-v1.5-0_medi,TroFi_train_vicuna-7b-v1.5-0_hard
 template: llama2
 cutoff_len: 1024
 max_samples: 5000
@@ -20,7 +20,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 # output
-output_dir: saves/llama2-7b-chat-hf/full/sft-CL-MOH-X_train
+output_dir: saves/llama2-7b-chat-hf/full/sft-CL-TroFi_train
 logging_steps: 10
 save_steps: 5000
 plot_loss: true

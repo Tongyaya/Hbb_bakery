@@ -1,0 +1,57 @@
+[
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "Hitler invaded Poland on September 1, 1939.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "The wrestler twisted his shoulder.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "He made some sexual advances at the woman in his office and groped her repeatedly.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "The crocodile was crawling along the riverbed.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "Please use a computerized disctionary.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "She brushed the suit before hanging it back into the closet.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "spot the areas that one should clearly identify.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "The brothers sell shoes.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "Have you stuffed the turkey yet?",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "She was wearing yellow that day.",
+    "output": "no"
+  },
+  {
+    "instruction": "Discriminating metaphors usually follows the following steps:\n(a) Analyze and determine the meaning of each lexical unit in the discourse context.\n(b) Determine whether each lexical unit has a more basic meaning in other contexts than in the given discourse context.\n(c) If the lexical unit has a more basic meaning in other contexts than in the current context, determine whether the contextual meaning contrasts with the basic meaning and can understand the contextual meaning in comparison with it.\n(d) If so, then mark this lexical unit as metaphorical.\nUse the above steps to determine whether the following sentences contain metaphors and just answer yes or no:",
+    "input": "The crowd pushed forward.",
+    "output": "no"
+  }
+]

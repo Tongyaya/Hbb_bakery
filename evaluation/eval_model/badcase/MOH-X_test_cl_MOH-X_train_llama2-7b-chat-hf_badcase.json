@@ -1,0 +1,72 @@
+[
+  {
+    "input": "He landed several blows on his opponent's head.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The charges were inflated.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the butter cream smothered the cake.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our babysitter raided our refrigerator.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He squared his shoulders.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Make the people's hearts glow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "the workers spell every four hours.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her face glowed when she came out of the sauna.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Don't bolt your food!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Her violent feelings palpitated the young woman's heart.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Planes buzzed the crowds in the square.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The hunters traced the deer into the woods.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The pilot kited for a long time over the mountains.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The summer sun alone can cause a pine to blaze.",
+    "label": "no",
+    "response": "yes"
+  }
+]
