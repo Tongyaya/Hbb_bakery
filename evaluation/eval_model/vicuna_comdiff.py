@@ -31,8 +31,9 @@ for item in out:
     fin.append(item['input'])
 with open(test_data_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
-responses = []
+
 for item in tqdm(data[:3000]):
+    responses = []
     context = item['input']
     if context in fin:
         continue

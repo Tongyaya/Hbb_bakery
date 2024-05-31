@@ -1,7 +1,7 @@
 import json
 from tqdm import tqdm
 
-path = './difficulty/vicuna/VUA18_train_vicuna-7b-v1.5-0.json'
+path = './difficulty/vicuna/VUA18_train_vicuna-7b-v1.5.json'
 easy_path = path.replace('.json','_easy.json')
 hard_path = path.replace('.json','_hard.json')
 medi_path = path.replace('.json','_medi.json')

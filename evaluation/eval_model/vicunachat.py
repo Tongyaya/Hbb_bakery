@@ -2,10 +2,10 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import json
 from tqdm import tqdm
 import os
-os.environ['CUDA_VISIBLE_DEVICES'] = "1"
+os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 device = "cuda" # the device to load the model onto
 
-model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/vicuna-7b-v1.5/full/sft-CL-TroFi_train'
+model_path = '/data/huboxiang/metaphor/Hbb_Factory/saves/vicuna-7b-v1.5/full/sft-CL-VUA18_train'
 
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path).cuda()
@@ -27,8 +27,8 @@ Use the above steps to determine whether the following sentences contain metapho
 Answering starts with ''yes'' or ''no'' :'''
 
 
-test_data_path = './test_data/TroFi_test.json'
-model_output_path = test_data_path.replace('.json','_CL-TroFi_train_vicuna-7b-v1.5-0.json').replace('./test_data/','./model_output/')
+test_data_path = './test_data/VUA18_test.json'
+model_output_path = test_data_path.replace('.json','_CL-VUA18_train_vicuna-7b-v1.5-0.json').replace('./test_data/','./model_output/')
 try:
     out = json.load(open(model_output_path, 'r', encoding='utf-8'))
 except:

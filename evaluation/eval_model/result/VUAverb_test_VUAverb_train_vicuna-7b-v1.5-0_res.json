@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/VUAverb_test_VUAverb_train_vicuna-7b-v1.5-0.json",
+    "f1_score": 0.8849594341585189,
+    "precision": 0.8933221335573288,
+    "recall": 0.8767518549051937,
+    "tp": 2127,
+    "fp": 254,
+    "fn": 299,
+    "total": 2680
+  }
+]

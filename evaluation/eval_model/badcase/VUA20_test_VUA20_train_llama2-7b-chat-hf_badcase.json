@@ -1,0 +1,4662 @@
+[
+  {
+    "input": "Buddleias , although messy , should not be cut back until spring .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is it any better to oblige her to go abseiling or butterfly-catching instead ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Globe artichokes are sprouting new leaves and may need protection from frost in cold areas .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well just keep going round .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Twenty chicken nuggets please .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But he 's , he just really has to get in touch with one of them and tell them the prices .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This man , Tepilit , was injured helping me with the filming of a lion hunt .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , John 's already decided , that 's alright .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh they 're , you remember you were on about it yesterday about the services they 're all there .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ No , sir , but we got the Larusa translator in .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But more in , but what it was when I was in here , sort of five days a week , nine to five job",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I knew I 'd be in trouble !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What happens to her then ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , but it 's somebody sitting in an office in n it deciding this !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No I did that the other day",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "last week when we were on holiday .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That girl is really trying !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fairfax is securing its wheels with rocks .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He looks at Fairfax without fear .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You have all the physical attributes . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He 's realizes which one it is bloody hell !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah that 's cos I make the the pastry and you can",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The plane lurches into motion .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ White men have different customs . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Manchester is not alone .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Did n't tell us about that one did you ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He has in one hand a stick and is followed by a thin dog .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As they move forward , Tepilit , without warning , hurls his spear at the district officer from a few feet away .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fillet drums",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That 's not gon na go through that window anyway , is it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Beside her Monsieur Mattli , a small Greek-looking man , some ten years her senior , was also quivering with indignation .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He always gets like that and then he forgets after like a month or two when he has n't worked for him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "When you want to borrow on a mortgage , the prospective lenders will have the property valued at your expense .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , I 'm going in as well darling .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Claudia , the problem is that one Masai , cruel as this may sound , is not considered very important .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "all the jobs , he said I do n't want to learn them I 've come to supervise , he said I do n't wan na get mucky !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "probably need to get Ken 's",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I have to talk to the governor .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Should of been done any way .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I was going to say that does n't seem very thick",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The white people are having a war with the Germans .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's who we need to advise us do n't we ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh well , she should be used to it by now …",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There is a pause .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There is obviously something wrong with a portrayal of children as totally lacking in reason until they leap out of bed on their tenth birthday announcing that they are now able to act on principle .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Then he pressed another knob and a big toy doll in his office window dropped its trousers .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I did n't know he said that to him !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The only accident and emergency relief was provided by the police , part-time St John ambulance volunteers running 20 vehicles , and the Red Cross .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I du n no what 's up I just , that closing date 's tomorrow in n it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula picked up her try and moved aside waiting for him , flushed with pleasure at seeing a familiar face .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The Hong Kong University of Science and Technology , the Hong Kong Island Divisional Headquarters of the Red Cross , the new Cultural Centre , and many more .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ As we know , truth is often stranger than fiction . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "and roast puddings , roast tikka twice and a few extras .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah yeah and I mean yeah We 'll definitely be finished in about an hour",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cos Rita assembled it for us .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No point is there ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He led the way , his slim hips in the tight fitting pants snaking gracefully between the tables .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What is it to be treated as a child ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , usual time .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We said above that sociologists would reject non-sociological explanations of crime .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ey I told them , I said you might hear some right I was in the pub Saturday night , mind I did tell afterwards and he 's ever such a nice fella he comes over door",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "time er , put it right .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We did n't finish them cos they wanted to start trussing early",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cos he 'll eat them , he 'll be stood there waiting for them coming out of the blooming oven !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula perched herself against the cutting table trying to look nonchalant .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A section of the road was shut for a week and motorists were warned to clean their cars and to dispose of the rags in plastic bags .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When my Helen comes , she 's got ta pay",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They 've all finished early , they 've unless they came in late with the order or something , extras or something .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No we do n't wan na be looking at",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Its most surprising room , covered from ceiling to floor in 17th-century paintings , should be a salon or library ; instead , a dotty stone bathtub was set into one wall at a later date by a lady called Charlotte .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If we get in trainee .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But the modern tram could hardly be more different .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mulching is a pleasant activity for October .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A child greets her , but a young warrior strikes the child with a stick .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You see I mean",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yet the ambulance worker is only being offered £10,000 , when a fire officer is being given £13,000 and a Metropolitan police constable can earn £25,000 .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I tacked the ship shortly after midnight , doing the job by myself and enjoying the work .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ha it wo n't go more than that !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You 're gon na have to have somebody else to take the money wo n't you ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "every line .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ You know that and so do I. But suppose I 've done something similar ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What , no , I thought there might be a reason yeah but ,",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She did not understand what your son wanted from her .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Something like they have at Chapel .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well , like I say if I want to bring my family , I 've got to pay five pound which",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well the chap next door 's finding it very amusing !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That 's the one I saw when I was coming in .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It ai n't bad being aboard , ’ he said , and held out his hand and , not before time , we shook .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ I 've left Mattli , ’ she said .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah on Sunday they do .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Overall there would be some increase in the recruitment of girls , but no qualitative improvement .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They are as much a part of Milan as La Scala or the Galleria Vittore Emmanuele .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "but when you come and sit here at night",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ I do n't earn that much !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "yeah that 's it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That wo n't last till ten I 'd rather go and rack .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Women managers have a choice as to whether they wear trousers or a skirt .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Pillow talk is the most dangerous . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Most people have their own notions or theories as to what causes criminal behaviour .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But then tomorrow he 's actually doing his own work .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He walks without a backward glance .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No , just ask them if it 's effective with your license just , you know , sort of as you come",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He looked like a worried small boy .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Erikson does not suggest that the development of an ego-identity is a once-and-for-all issue .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Was it taken down by a policeman ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Law : Always take along a friend to sue : Litigation can pay off even in the unlikeliest circumstances .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Can you pass me that er , sheet ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This little group begins to mount a hill .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But once I 'd done it , I swore I 'd help others do it . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well it 's getting up there .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "By the time I 've paid for my room at the YWCA and bought all the make-up and clothes I need there never seems to be anything left over .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "have it tea time Oh , we , probably have it about five o'clock everybody , and Lyn and Michael come in early and have theirs as well .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It had been in an accident and it was worthless .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well in fact two really big estimates",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Children are definitely not rational but love to be treated as if they were .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "flooring type of thing .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Children , according to Hobbes , have the ‘ possibility apparent ’ of becoming reasonable .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "At a nearby house , Leonard Hough , a retired schoolmaster , had earlier told me about ‘ the fog ’ which he says comes from the factory .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It 's not very heavy Really to start a truss that 's",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Are those erm queuing up though ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I just going go round .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fahfakhs said that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Soon it is passing over the spectacular Rift Valley .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "See Ronald MacDonald in person here on Sunday the twenty second of March .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Two warriors , one of whom is Saibol , Tepilit 's younger brother , stand at a distance .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In Britain , with the main exception of Blackpool ( not forgetting the single-deckers of the Isle of Man and Llandudno ) , trams had been largely relegated to the history books .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's a lot of people there .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In May last year the Court of Appeal upheld a judgment against the friend for more than £5,500 damages for negligence because he had owed the accountant a duty of care .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She is my little heifer . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Women on there have to come off",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No I know time you get it back here it is .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Who says that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She had booked herself a bed at a YWCA hostel for the time being .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ole Sentue Simel , you must speak to your son . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Rob Bettinson , the director , has deduced that he ought to have these images plus disc-jockeys , radio commercials , midwestern hops , but he does n't seem to know why .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula repeated , stunned .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There we go , dear .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "See John when he as soon as John arrived he said to me will you take me he said , I do n't wan na learn it proficiently but I want to know every job so I then took",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cos you do n't go as slow as this , even round here something like that Ann .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Gary was not interested in girls .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There are other difficulties too .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "no I feel about I I 'll I 've said to Ann , no I feel alright Ann but you know just I du n no I 'm not quite myself am I ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This man was very much liked by the Masai .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , little bit over .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It is , in his mind ‘ a fact .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Environmental organisations , however , put the emphasis elsewhere .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When we have a when we were talking to them and we had the door through and my snooker got really good .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And that 's with the chip system obviously .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There was some space at the other end actually .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Piles of ruddy-brown ash lay heaped on the floor .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No that 's alright get me a",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I asked Ellen that afternoon .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They are tiny figures in a huge landscape .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's what John said , he wanted",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "they 're treating alcohol as food .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He can not wait for the proposed exchange of animals .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "From behind the sergeant , an askari shouts at Tepilit .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We 'll leave this for now , Claudia ’ , he said .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He was supposed to deliver a bull to the district officer , it was about three weeks ago , and he decided at the last moment to replace the bull with another one .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "John come to me and he said is that your number ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well I mean , they 'll all be packed up in the bars upstairs would n't they , and everything",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He straightens up and salutes Fairfax .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Surely that must be obvious to everyone who met him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We get smoke from the steel works across the valley , but we know what that is and we 're not afraid of it . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And they 're both , about two to three thousand pounds worth of sanitary ware or more but two to three thousand pounds worth of work .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I had no idea he wanted me to marry him when he has his head shaved . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What a bloody night was Stuart .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I 've had a go but obviously not",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or perhaps it 's sort of some dressed up character .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We 'll call in",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Certainly having fun .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How do you get to that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's my ticket , not yours why are you saying thank you !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "how do you Americanize this ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yes , I 'll be better at ten o'clock , I shall be better at ten o'clock by Friday",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But Stuart when we 've done the we 're gon na book that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Them were the days .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've never known it that full before .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They have n't mentioned it this year , have they ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You never know dear , you may be a very very fit ninety five .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Sensitivity , though , is not enough .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We honour the Masai above all people . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ The priority of MAFF must become food , not farming , ’ the policy review says .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That boy will do anything for me , even up to getting himself killed by a lion .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He did nothing to them , but they want to kill him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He was born in Lubbock , married a nice Spanish girl and died young in a ‘ plane crash in 1959 .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is that what you want ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I see MacDonalds .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Are you coming Christopher or are you going to sit here to have your meal ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ian only last about three or four weeks , he was gone .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In 1986 , according to Friends of the Earth , a survey of the homes clustered on the surrounding hills found that three-quarters of 800 residents were opposed to the Rechem plant .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah , can you put me down , the name down for the , alright , okay .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "does n't matter I 'll , I 'll keep phoning .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He says that this particular animal is a favourite .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We catch sight of a small plane circling the mountain .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ You 're an original .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Why was it all women hated her so , even when they did n't know her ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ I told you — I 've left Mattli .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ She allowed a man to persuade her into taking the drug , so she can only blame herself for her predicament .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Assuming the power station at the end of the line burns cleanly , the tram is virtually pollution free .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They are sitting on stools in the middle of the cattle enclosure talking to Tepilit 's father , Sentue .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They sit in the dust of the vanished cattle .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There are so many combinations of what to have , what to get , what we ca n't get , what we need really I think is , what we need is obviously going to be priority is n't it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Not really , not this time of the day is it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But I have tried to talk to him , to persuade him to say that he thought the askaris were going to shoot him or that it was a misunderstanding , but he refuse absolutely to excuse himself . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In all the time she had been with her Paula had never seen her so angry .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Dimples played in his cheeks .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ He came to my house and told me what had happened . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He 's like a ferret !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Niort is about the same distance by the parallel N150 .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I have flown my plane with cadged army fuel six hundred miles .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well , that 's what I said .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In a bare , mud-walled cell , sitting on the floor , is Tepilit .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If we have a good summer .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "said well you do what you did with him and show showing him how to do",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It wo n't be easy , ‘ he said grimly , and I was suddenly rather glad to have the taciturn Chatterton aboard .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Presently that idea is cocaine , and nothing but cocaine .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "order my",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Oh ! ’ she squealed as light dawned .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Wicked far out .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I might drop a pipe — a little bit of a splash . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You mean go back on them , cos we did n't finish them cos there was three pallets and we did n't even do two .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Shall we take photographs ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Eleven , you 've got four hundred pound , you got so it 's a good second hand one or a cheapy no , well it would be a cheapy I told him most of them around about seven hundred and ninety nine",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The government will help your son , but he must not say that he killed the white man on purpose .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've only got until tomorrow . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So who 's covering tomorrow ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Bloody hell , hello Dawn .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ I 'll talk to him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We ai n't got a , just a mad man !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No I never swore everybody to secrecy but they all know it you cos you told them !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'm , I 'm going to erm we 'll make that into something American .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh you 're on lates this week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ What are you doing here ? ’ he asked without moving his lips .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He should be able to pick and choose .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I said , well fair enough , I 'll go to do something else !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Who is it this time ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It blows along the valley .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "so he good , a rough idea",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So I 'm now within I 'm now within the limit ooh !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Laibon , great-grandson of Mbatian , you must think again .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": ", I 'm only telling you what to expect you know , when you go on holiday",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No it 's er I 'm taping all my conversations I have with everybody for a week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The orange-liveried ‘ 1500 ’ series trams in Milan , for example , date from 1927 .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Single-car , articulated or double-decker , trams are one of the most reliable and enduring forms of public transport invented .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "at half past five .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It involves nothing more than putting up 80-foot masts all over the land .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Unless it got personal , I 'd turn it off , I mean I mean when we went the estate agents and solicitors",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Those animals are accustomed to the Masai .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ How can I be sure of that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I have offered many cows to pay this man 's family .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I know that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Anything to help a friend . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Who 's who 's gon na know when they to compile a dictionary and what words you use who 's gon na know who you are ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You 'll be old one day just think when you 're a little old man sitting behind",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No I do n't , no , no , no , no , no , but I know it wants to be erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In any case , it would be dishonest to pretend that Mill-type consequences are not relevant here .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "in the daytime I 'm going home I 'm not putting up with like that !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh well I saw that on Friday .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Can he say to him , ‘ You must stop being a Masai .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In the Garden Update : Growing classes",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "shout at you .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What about flour and things , have you got enough flour to get",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But I wanted to work for myself .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Oh hell , I shall have to go . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ How long will it take , anyway ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "say , there 's so many combinations that 's the thing is n't it ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ I 'd have liked to have had Rickie Crowninshield in my platoon for just five minutes . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Wonder if she goes to MacDonalds every night for her tea ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She does not want you to be tried by the government . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": ", you took three of them did n't you ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah I know , they were n't very long series was it ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah he 's out all this week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Say if you 're , if you 're really busy at the bar just taking your gloves off and fucking putting them on .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Can you talk to his family ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Nobody asked for my clock number when mine and Stuart 's , just gave me me ticket .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "probably need to get Ken 's permission !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Taylors have a certain amount of stock but she will be bringing extra samples from London especially for the show .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So why John said would I show you how to truss nice , I do n't wish to learn thank you !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The laibon speaks to Claudia , ignoring him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Probably a case-study approach involving the application of science , and the interaction with other disciplines , would be needed .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No that 's alright !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I tell you what is quite funny these , the act .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So I have decided to move to London and open a showroom .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "we will go in and do it",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'm taping all your conversations anyway",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's right .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula was not very clever with her needle but she soon learned to be careful so as not to incur the wrath of the seamstress .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , must be used to the must do it sometime",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No that 's what I say if calculated wrong",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They 're treating",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ You 're going to have to describe the Mattli collection to me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ I wrote it for you , ’ he assures his gal before the ballads , but how can you tell ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'll talk to the DC .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That type of floor , yeah .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He admits killing the DO .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Get some up town , if that 's what you want .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The white man told the askaris to take my animal after I had offered to exchange it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Introduction",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This is not because such explanations are ‘ wrong ’ , but because they are incomplete or inadequate .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Think up a good think for sponsor .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Middle of the week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Because there 's one there , one on one of these that er either Paul Simon or Art Garfunkel or someone , ca n't remember which one , probably Art Garfunkel as Paul Simon does all his own does n't he ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I know I come on a Friday I were absolutely gobsmacked !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Stack emissions of PCBs were below the American standard for breathing air - 1,000 times lower than the British equivalent .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "SOME OF OUR CHILDREN ARE MISSING",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "At least , this has a surreal daftness .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Would you not shout at me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ You must stop visiting him , ’ Madame said firmly .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Another man was killed in the ridiculous filming .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is a beautiful animal , with huge , curved horns .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Rob 's coming to look at lights .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If I want it spread around .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ I felt it was so safe , they were so professional , ’ said Mr Tyson .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Spotlessly clean and popular , the Jumbo is a long-term advertisement for Koenig 's design skills .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "His face is still dirty from the dust and oil , except that around his eyes is a white patch where the goggles were .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She quite , I think she liked the area , she was saying about the schools and that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well we certainly wo n't last till ten , not",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I ca n't bear it that you are unhappy .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Masai watch all this .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ But you still got off cocaine ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah I had somebody come round and stuck their bloody",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I probably come on with , on , on , on you with it after Christmas as well cos I 'll probably put some back on",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So I sent that off .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They know that I killed him on purpose because he took my best animal . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I went we were absolutely you know everybody claimed something",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It was helpful that these topics also interested boys .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ What 's all this about , lovey ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "These theories share certain similarities with biological explanations .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And he actually got that one done .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The moment is unnaturally , poignantly , delayed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This model seems to explain our observations .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There still in there .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "good to use them for swinging in the trees .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "his face at moment , he had n't been anywhere round to , since all this happened before Christmas .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This model was originally postulated by Erikson ( 1965 ) and then developed by Marcia ( 1966 and 1976 ) .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The throng of Masai surrounds them .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A number of other Masai gather round .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Keeping him busy out on estimates and",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No , no , not when it comes to pastry , a nice bit of apple pie and",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "decide on the Monday , so you 'll have to cancel",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They are not just available to him , they are his .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "thinking we 'll soon get them and save you carrying it tomorrow , then .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ What a balls-up .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She stipulated that it must never have been involved in an accident .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Great !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Everyone starts on me",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well , about another hour .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He could not speak Masai so he always was accompanied by this man , a Nandi , who , I am afraid , does not speak Masai very good . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "got",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax is stunned .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Are the twins trash ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Have we got some more Birds Eye pies up to truss ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They get them little knives",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I have n't even mentioned a single detail of the Mattli collection . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I think I 'm pretty confident on that one when you 're eighty I should be ninety five and the",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "By midnight I was alone on deck , and happy to be alone .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No cos you keep shouting at me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do you know who 's that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "One may doubt whether modern farming has any useful purpose nowadays when everybody is on a diet .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "she 's going on holiday in January",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No it 's the flour and things like that we said it 's",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's not your regulations you have to read is it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is not a forty mile an hour zone , so you 're in the wrong !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah and you feel like a bleeding rabbit .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In what does the possibility consist ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well you ca n't afford to lose them , can you ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well he 's going to carry on like that is n't he ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It ai n't , well it was n't really disgusting but it",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "From a distance we see Tepilit , walking steadily towards Ol Doinyo Lengai with his animals .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I have to explain to him what happened .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But its future direction remains unknown and indeterminate .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That 's good .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "On her second day Madame Mattli took her to Vidal Sassoon 's salon in Grosvenor House so that her hair could be cut in an up-to-the-minute style .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They drive down into a dry watercourse and are surrounded by hundreds of cattle returning from their grazing , driven by children and young warriors .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The wastes include lindane , DDT , out-of-date drugs , carcinogenic chemicals , old cigars and even pornography ( a different kind of pollution ) .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Anytime But I remember bloody you coming in on a Sunday morning sometimes you , bloody can hardly the bed !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If she sues I 'll be ruined .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah that 's what Ann said .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ But Gary — I have n't been spying for you !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This piece of wood passes right through Turnbull , so that he is skewered .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You got ta be at work .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There is no contract between you and the valuer .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No messing !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula was going hot and cold by now .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's what we said .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They unloaded their trays on to a table .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Ca n't go any more , Ann .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Those are only the most overt changes advocated in the review papers .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "From it , into the colourful throng , appears a young British district officer , Miles Turnbull .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's a space .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You can almost hear the soil gulping .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Do we second hand suite second hand suite , the whole lot .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I shall contact the agency for a replacement immediately .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He strides stiffly and angrily .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You use that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "When 's it in operation .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "stuff like that ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ah well that 's what we 're all waiting for , we 're waiting for you to drop it !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She held up her fingers , tightly crossed for him .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Holt 's child is actually the Artful Dodger ; mercifully , not all children are .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "At the beginning of adolescence , the individual is a within the family and the school .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In 1987 , aluminium melted in the furnace , reacted with water and exploded , sending a black cloud over nearby houses .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Have to think of that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is a strange , other-worldly noise .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It 's called the Hole in the Wall .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "and I can work on it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "candid camera !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "As with a new one you 'll probably gon na get four , five , six , seven ,",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yes fair enough thanks very much .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And good luck with your new venture ! ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or if anybody told me , I mean I would n't and talking in confidence about their private life or",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "get",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Thought you might want a lift .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Not once but several times , ’ he added .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So we got a thousand letters to do that 's all , well it might be over I do n't know they 're but",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He is an old gentleman , dear but er he is n't in a hurry what so ever .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "On his head he wears a head-dress of lion mane .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Did you see him after the killing ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's , it was the architects ' department erm , till they go like you know , till they Palatine Hall erm , it used to be the architects ' department .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "no so she started trussing , helping me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ You get sarcasm mainly .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "and mincemeat , that cos that ai n't very heavy to carry , in n it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Thought you might know a and all , in about five minutes !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The smell released by a pig or chicken farm is indescribable , and can affect 10 square miles of countryside around .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "whilst he 's in the mood ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's stopped raining .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah but perhaps it wo n't go more than that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well that , but your main areas will be gon na be before .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I do n't feel",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Did you accept any gifts ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh dear , they ca n't get the stuff up the stairs dear !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've got ta be I wo n't actually do it I 'll just come in run a just give it complete customers and and help",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Speak to you later .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "THE nation 's ambulance service was in manifest chaos yesterday .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The laibon stands to watch them go .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We have many problems with the government .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They 've gone on holiday .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Are you the defence , sir ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I mean he has n't been in the shop once this week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We are trying to establish the Truth of History'",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They will also tend to be authoritarian , conservative and controlled in their thinking .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do n't forget to get cooking apples , to put in the mincemeat .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I said to him I 'll wrap it up and give you it for your Christmas present !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Not everything that Paula had to do was quite so glamorous , however .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A teeny bit .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The Masai stand a short distance off , curious , but self-absorbed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Sentue is a grand , dignified figure of about sixty-five .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Somebody took me to see one of their pubs in Liverpool it was wonderful !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh yeah , but I wonder if we 're gon na all finished by nine o'clock and you 'll have us all in your ha ha ha",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In this article we are concerned with ego-identity achievement in respect to career .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Can we be sure Robin-Anne did n't bring any of the drug aboard ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "My life would be finished .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We 've got nine hundred pounds approximately , after the cooker and the fridge .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In fact I have just been looking at a place in South Audley Street , not far from Mattli .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He is descended from Mbatian . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "well he told me when I claimed",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In Liverpool , a dockers ' spokesman with the Transport and General Workers Union admitted : ‘ Drivers are n't happy handling some of these commodities , but at least a lorry-driver has more idea of what he is handling than a docker , who could have a consignment and just not know what it is . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well Simon and Garfunkel did that",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Although he failed to check it had been accident-free , he assured the lady that this was the case .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Warned not to sing rock'n'roll on a c&w station , Buddy Holly insists , ‘ I got ta play ma music . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We 'll call",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "III THE SECOND CRITIQUE :",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She was going to take it — of course !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I think you 'd be better off with a with a new cooker and fridge",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Unfortunately , this evidence has tended to be fragmentary , a collection of separate , discrete pieces of information lacking a synthesizing theory to provide cohesion and predictive power .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This condition is known as foreclosure .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "However much she may enjoy such pursuits , there will be times when she would actually rather wander the streets unaccompanied .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Anyway , you 've got me now so you can get rid of her . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well I , we wo n't be doing anything nearly spectacular area than this .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She wants me to talk to you . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The girl behind the till stared at her stonily .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Do n't worry .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Bet it was erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Marvel at The Little Woman Behind The Man : ‘ I 'd like to sing a song fer a special girlfriend who 's kinda important to me . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's all foyers and things .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This is a very big war . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I have told her everything that happened . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'm not keen .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Especially when you have to have a bit of salad cream on",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or else we go in the afternoon and truss your pvc .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He grinned at her impishly .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Twenty chicken nuggets .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah , Tina can go on it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ He 'd better be clean !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Not , you ca n't even wander outside",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I believed I owed him some debt .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Outside the capital , accident and emergency services were being provided in most areas , but the ban on emergency work was tightened .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The School Framework",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Trams , it was believed until surprisingly recently , are old-fashioned .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "mammogram thing for the hospital .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Just under 10 miles south-west of St Jean , on the Brouage road , St-Savinien is at the upper limit of the tidal reaches of the Charente .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ What do you make of Rickie ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax speaks to Tepilit in Maa .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Got ta get it right .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I was trying to live the real Masai life . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Preliminary steps taken to conduct studies on trade , technology and investment flows in the region may seem insignificant .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Go in peace . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Maybe , but I can also , if I like , talk to my car , but yelling at it in the approved Basil Fawlty manner is hardly treating it as rational .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What , we may ask Harris , happens to the child who repeatedly fails his annual examination ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Hanged like a chicken by his neck , in town . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Do you realize what will happen to you if you are tried ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Spread around are hundreds of Masai men and women .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But — another but — what about the PCBs that already exist ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fed up , cheesed off",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Perhaps she 's told him he 's going too fast !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It 's that hard ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Do you know it was only five lines .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You know that I 'm not gon na get out of course .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ego-identity in adolescence",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It 's true .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They 've got one at cos I mean I went and had one so there must be one , another one",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They want somebody here from the for half an hour and them not being served first",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula turned gratefully , then gasped with surprise as she recognised the slight figure in black roll-neck sweater and skin tight pants .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You ca n't have left Mattli . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Anxieties which are currently felt most acutely by those living near destruction plants themselves may not always remain so localised .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Good to have you aboard . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "His mouth was full of pins .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Promise you 'll look in and say hello when you have time . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ What I want to say is this , there was a misunderstanding .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The big man thought for a few seconds , then laughed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's that one , yeah , , yeah , oh and , Ann , Ann that 's",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She speaks Swahili to the servant .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In the meantime , do n't forget your friends , eh Paula ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mill 's minors are a little more complicated .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Your conservatory collapses as a result of negligence of the professionals who were engaged by the previous owner to put it up .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'm gon na play with that and see what",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Madame Mattli , remember , is used to the best .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "At the moment .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "in those days .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Might as well sit down for a few minutes might n't we ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Just make sure you squeeze their knickers off , make them",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "and T D C when we come in , I mean they had n't checked any goujons , they had n't checked any of the fillets .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They have the records .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "today running over cyclists out the way .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "See you later on yeah , about er about the usual time",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And also , it 's cos that , you know after we had that row about Terry , after Bank Holiday expecting not to have to do a day in the shop , and er he 's already owing Brian a day ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Just want to I just want a that will do me",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Actually from the original structure , I mean , it 's , it 's , it was half that size anyway .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But the book 's principal defect remains the vacuity of its protagonist .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It looked like that , did n't it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We 'll call in .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "John , I hope you do n't mind , I said got ta call he said you",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Thus , we will look initially at biological and psychological theories .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The £32 million remand prison has 156 single and 72 shared cells , each with its own lavatory and washbasin .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The project and its outcomes have been fully described elsewhere ( Smail et al . ,",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Turnbull busies himself with his clipboard as his reply is translated .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What we know about persons choosing science",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And here were drums of chemicals , each labelled , each with a job number to check against sampling .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cos there 's nothing worse than there being a room with no natural light in , really .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "it was getting it was getting oppressive in that little office down there .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Hardly a laughing matter , surely ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It can be done in spring too , but there are usually more pressing jobs then .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This drives the spear almost completely through his body .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They want to take our cows to pay for the war .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's incredible wasted areas in this place !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I suppose you like that film .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ The next day he presented himself for arrest . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's on at the moment though .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He said he 'd come to supervise , not to do it !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Probably trying to get ahead for that , one of those .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "sorted out .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "he said I come to be supervisor he said , I do n't know , I do n't wish to learn all that !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Bloody hell !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well I did n't tell him it he can wind it just erase it I mean I do n't I said I 'm alright love just to do all that , I 've got twenty tapes !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We 'll call in , that will be better than phoning at least you know you know you 're gon na get there .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ He was very sick after the lion got him and he gave me his necklace .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Little Orphan Annie ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Umm … not a part of France we know … where exactly is it ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You can make it different like and make it sort of still a dance area .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Keep away from jasmine , already thick in flower bud , and clematis , however untidy .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Wants to be like Chamber of Horrors !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Shall we take some coffee now ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Generations of philosophers have documented this process .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She had known about the vacancy at Mattli and hoped that the job might be offered to Paula .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Sod off !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah , I 've had an away day today , I never said a gay day , I said an away day .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I do n't think he ever recorded it , I think he just used to sing it at his , er sort of cabaret .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ What a small world !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "An askari salutes as Fairfax steps out of the car in uniform .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "For Marxist or Hegelian thought , such an age-old contradiction ought to be resolvable through the operations of dialectical logic .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's a massive room with twelve snooker , twelve snooker tables",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I 've got loads of money somewhere .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ As far as I know them .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Five air-monitoring plants had been installed ( he took me to see them ) .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well , with all the trussing the might carry on trussing and get that done .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "People will get so antiseptic that they 'll not be able to stand any sort of germs of any sort .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But in the disclaimer his children need above all to be protected from the ghastly consequences of their own actions .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Wiltshire and Northumbria have already shown how much can be achieved .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If I tell him that they will fine you .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The girl pulled on her wrap and moved to the door looking back over her shoulder as she went and Paula was aware of the hostility in her gaze .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The Everley Brothers , that 's it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Got a wardrobe like ours and then oh no it is n't it 's a combination one it 's having to go up through the window let's hope they do n't drop it !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well it will be the local hospital that does all that",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As it happens , there is a kind of logic behind Buddy .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So as I 'm still trying to stuff things away , she opened the door and everything fell out .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'll get some tables up with erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No , that 's what everybody thought",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It was not unlike the feeling she experienced when men looked at her and wanted her though she knew it could not be that for there was nothing sexual between her and Gary and never would be .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What are you this week ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And like all of the other investors , he and his wife were in a quandry .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's forty mile an hour zone anyway , so he 's in the right and you 're in the wrong anyway .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mr Duncan Nichol wants to separate the emergency from the non-emergency work .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well I shall go because if that fella 's been from , if that fella said I did n't have a job I 'll be jumping up and down like a what d' ya call it !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is the like , legal limit .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Months later , when Marie had departed , Louis is said to have paused nostalgically at Brouage on his way to Paris after marrying the Spanish Infanta at St Jean-de-Luz .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No , that 's to do with this tape .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's the words they 're interested in , not what you actually say and the",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ It 's great .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I am sure he would wish me to marry with someone in our tribe .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Two or three years on the others .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Children … love to be treated as Rational Creatures sooner than is imagined … by which …",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We must run it safely in the short term and long term , ’ he said , ‘ because if people are able to demonstrate that we are causing an environment problem we will be shut down . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Would science in the home be a starter ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Oh yeah you you have to erase it but nobody 's gon na , I mean to say , nobody knows who you are , what you 've said anyway at all , do they ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Someone asked me whether , I thought it 'd be a bit of fun But as I say nobody knows who you are , or what you 've said or anything so it does n't matter does it ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And now my family have offered forty-nine cattle to his family , but the government will not take them to give to his family in England . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "'Bye for now ! ’ she called , and ran in through the imposing front door .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The young warrior , Tepilit , is arguing with the district officer .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's four days on now .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The disposal of toxic wastes is one of the most intractable problems facing industrialised societies .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "for the third of January , then he goes back tenth cos his",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well , along that corridor is",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Someone may have even done you a favour .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We start with a young man , Thomas Fairfax , in military khaki and flying jacket , climbing into his old biplane and taxiing down a runway .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The twins ’ daddy has paid for you and me , Mr Breakspear , and for everyone else on board this boat , but even with all that money and all this boat , we still might not succeed with them . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He asserts it often enough : ‘ History continually effects totalisations of totalisations , ( I , 15 ) .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I get on very well with him though .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do n't shout at me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No no got all that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He has had plenty of time . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Have a little drinky-poos .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ That 's nonsense !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Depends on their will power , 'cause nothing else will do it for them .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The universal , the totality , can only be known through the singular .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Is that possible ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In these environmentally conscious times , this is an uncomfortable growth industry .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "What they doing another sponsored slim are they ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Have we yet reached the point at which we would be awarded damages against the Meteorological Office because we went camping on the day of an unforecast hurricane ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Mind you in the evening , if it gets quite chilly in the evenings so it might be a good jumper to wear in the evenings when we go for our evening walks by the sea .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ If you say that at your trial , they will kill you . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , we got five minutes .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No , going on holiday",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It might still be necessary to ask why delinquency occurred with one son or daughter but not another .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Everybody must have thought what a dismal day this is .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There was no difference between the liquid in these drums and the liquid in the cargoes they refused to touch .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "By refusing to keep open two-way radio links , the crews had effectively ended a proper emergency service .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Around them graceful Masai women in long leather skirts are sweeping the boma and plastering the huts with cow dung .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "MUSICALS / Bows of Holly : Mark Steyn reviews London 's latest musical biography , Buddy , at The Victoria Palace",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There was nothing like that between them and never would be .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But he was overworked .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In front of the building is a row of white-painted stones and some cactus-like sisal plants forming a circle around a patch of grass .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula 's bag and shoes were patent black leather , her gloves white , and she carried a long walking umbrella neatly furled in its fur-trimmed case .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Not unless someone puts their foot down .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This , of course , is a key point .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She inserted a Du Maurier cigarette into her long tortoiseshell holder and sat back , looking at Paula , who was seated in the visitor 's chair on the other side of the desk , long legs crossed elegantly .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The evidence for an association between personality characteristics and an interest in science has been more fully reviewed by Head ( 1979 ) .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "never used to go on the",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So we were gon na move an office up to here with some natural light in it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Perhaps he just means that they like the sound of my voice ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You see some fucking morons we get in !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Also , there would be the further question of why the parents had not provided adequate supervision .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Unity had been easy during the Resistance , because relationships were almost always man-to-man .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The lyrics are another matter .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It 's cos he 's working for him at the moment money .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Like it was her enemy . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He already knew about that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Terry uses the shop to get extra money every so often , uses my dad ticking over running when he",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We I 'll call in",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We got a thousand more do a Sainsburys and that 's it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Other British towns , Croydon and Southampton among them , are also considering modern tramways .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She does n't really like his stuff .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Used to go bloody berserk !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A man trying to get a wardrobe through the bedroom window over there .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They came twenty minutes early , there 's Brian up in the shower , there 's me stuffing things in the cupboard under the stairs .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Pattern cutters , fitters , sewing hands and their assistants all worked at an incredible speed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You used to go in to play snooker did n't you ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I shall just say I 'm sorry we do n't want this meal and we 'll go away .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "they 're not , they 're not little either , I saw a film and it was hanging past his knee caps",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As she talks the servant brings the drinks and then the lunch , a grilled fowl with some preserves .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I smiled at the severity of Ellen 's judgment .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ My father was an industrial chemist and he said if you want to go and work for them , go and work for them . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Until now Gary had been an out-of-town designer , of course .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How does it ‘ continually bring about the unity of dispersive profusion and integration ’ ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 'm more than happy with something like that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "II THE FIRST CRITIQUE",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Sometimes for many months I was the only white person for hundreds of miles .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "First he 's never seen , surprises he 's always .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I will try to get him off .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The few models which have been developed to date may have been correct as far as they go but are clearly incomplete .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They cock their rifles and fire into the air .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well I 'll stay and have my bath between eight and nine and you can go and have a drink no I do n't think I 'll be going out this evening .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Rights and privileges do not pose any particular problems in the case of children .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So the answer is to just phone them .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Like for instance the , er , what do they call those two ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Why are they doing all that and there 's nothing to do ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Our latest Foreign Secretary has yet to publicly pick up the file marked Hong Kong .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well you might as well , might n't you , and it 'll save you",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I 'll tell you what I said erm ah ah ah ah she 's talking to herself , but Ann will get on to you she 'll think I have n't done it !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Clapham , indeed , accounts for nearly half the 77 fatalities of the last ten years : compare that with the 5,000 deaths and 300,000 injuries every year on the roads .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Your people do not believe it is right to offer cows to his family .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Are n't you with Carnega any more ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Even though some of the most dangerous and persistent toxins , including polychlorinated biphenyls , PCBs , are no longer manufactured , quantities of them still exist , and must be got rid of .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Nevertheless they constitute the basis and conditions for further actions and history .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Little one , I would like to speak with you . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We did , we had a snooker table at home and my snooker will never get good .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I only want the best of my girls on this job .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fairfax approaches very close to the laibon , between them .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And it has n't been sorted yet ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "no I 'm alright Ann , I mean , feel a bit ah I mean I 'm sorry I do have to buy a feel a bit of , I feel a bit dizzy you know as if I",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ You know , that is an impossible question .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "words that people are using I 've got now , so I do n't even think of it , it 's just there and I just talk normal that 's the idea really and if anybody asks you what you 're doing , then you tell them and it and you say , if you do n't wish to be on it , well",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No , but getting",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There 's a war , the Germans are trying to kill every Jew in the world and you are going to hang one Masai because of a misunderstanding . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's a bit tricky .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Having trouble ? ’ a voice beside her asked .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And he , my father reminded him last night and he said yeah he would have them by tomorrow morning .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But the neglect of girl children through the centuries of theorising is more than a social injustice , though many might think this real and bad enough .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "or not long after so why have they been doing that if there 's nothing much to do ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Appearances at noon and three PM .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "On a Wednesday evening , do n't they .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The big man had obviously come on deck to warn me what to expect from the twins , and for that I was grateful .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Put them off today 's",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In the Garden Update : Weekend work",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "With her lower lip she tucks the upper lip into her mouth for a moment .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He is carrying some papers and is accompanied by two askaris with rifles , and an interpreter , dressed in khakis .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You know they do n't serve behind the bar on a Saturday night .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Trade you in for a couple of camels , he 'd come home with a couple of camels",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We 'll have a bit more sea , kick up some spray . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I just ca n't believe how daft he is .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He was in a fever .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They move in today .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Over Cook 's side , he only lasted about three more weeks , I mean",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She bought it .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It 's not being fair",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You mean she thinks you 've been spying for me !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Have a laugh and joke with Dick .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Smile , you 're on candid camera !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Got ta climb up that other end .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "One with shelves in gentlemen 's wardrobe .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mm , it would bounce up and down like a yo-yo",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Oh Ann 's got ta go and definitely have an operation , it could be before Christmas I 'll start",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How does History constantly totalize itself ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No one could therefore call for the closure of incineration plants at a stroke , because noxious chemicals have to go somewhere .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Major Fairfax will speak to the government . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I searched him and his luggage , and he was clean . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ You can count on me ! ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Go back and get some more breadcrumbs",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The deal the deal",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The 320 inmates will be allowed out of their cells for 14 hours a day with a minimum of six hours education and 13 hours exercise a week .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do you feel better now ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Some of the women are in robes of blue , others are in brown , dyed skins .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No , working till twelve .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fairfax stands up .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What are they doing , having another one , what Wisbech or the one at",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Have to employ him full time .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Just missed a space .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's what I say , you buy three pound of flour and two pound of mincemeat in a jar .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I heard about the lion hunt .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But if the valuer is negligent and you buy the property relying on his report , you may still be able to sue him for damages .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I did n't know what it meant .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well so many of these songs have been done by so many people that you would be forgiven for thinking that , that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "SECATEURS are likely to be the tool most in demand now .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You look , how you say ? , as a raccoon . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Effects of Curriculum Changes",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Pumps sucked air inwards .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "To use his own language :",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So I said well , no it 's not now is it , it 's erm , oh it 's that school that the .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You mean Stuey 's got time !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But please do not delay too long .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Would n't be too bad cos you 'd go down by the Jolly Farmer .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've got to get some , what sort of will you need ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They had something to do with fish and chips wrapped in newspaper , men in hats , National Health specs , smog and powdered egg .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Gary ! ’ she objected , shocked .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah , I already told that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The singing of the Masai and the overwhelming landscape are thrilling .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Suppose , for example , that it could be proved that one cause of delinquency was lack of parental supervision .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Go and have a look , see what you got .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Can I have a little time to think it over ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Her face is shaded from him in the failing light .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula 's stomach turned a somersault .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She laughed at the suspicion of jealousy in my voice .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's how we used to do it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "you know , leaning over the balcony and all that sort of er",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That was gone seven o'clock when",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So what is so there 's nothing to the other side , just apart from this big room ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is that what he said to you ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "very energetic and I should be alright now after been to sleep should do I 'm alright I ca n't think of anything I wan na get I want up town anyway nothing think of anything",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well they do that do n't they ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And I 'll make appointment .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Beyond the barrier lay some of the most toxic chemicals known , awaiting destruction by fire .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Making Science More Girl Friendly",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Her face , as she removes her hat and begins to speak , is startlingly beautiful , although not conventionally .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Girl Friendly Science and the Girl Friendly School",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "but er I do n't know , if you like it see what I mean ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That 's for Frontier Land .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You 'll have all them warriors chasing you round the jungle , they have their little blow pipes",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I had no idea , ’ Paula said , surprised she had not already heard the news .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The plane is taxiing , pursued by a group of running Masai warriors , glorious in their red and purple robes , ochred hair , lion head-dresses and so on .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "At the moment , as you know , the white people and their friends are fighting with the Germans .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've I 've been in work some of these",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "WOMEN PHILOSOPHERS AND GIRL CHILDREN",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do n't sound a lot of weight but",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Save you , save you carrying them .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Gary Oliver is a friend , ’ she said defensively .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Go for a microwave or do you just go for",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He must have a awful stairs !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ The security of our designs is paramount .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "MODERN trams , as most continental Europeans know , neither shake nor rattle , nor do they roll .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Jeanie and Hilary are doing that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Fine .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Start thinking , got nothing lose , start",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She offers her hand in the Masai manner , her head bowed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It was worse than a balls-up .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They just use to rest of it , yesterday , did n't I , last night .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ He will not talk to his son . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This woman has come from far away to write about your people .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "John 's told me to tell you to go and get it , right I said I said Richard coming , for four hundred pound I you 're not coming for it so that 's it oh you think it was pub machine or",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The hero , Francis Mayne , is suffering from the adolescent 's emotional confusion and acute self-consciousness .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ I do not pay you to have friends in rival fashion houses . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "he 's got , he said he 'd be better at ten o'clock .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "BOOK REVIEW / The cause without a rebel : ‘ The Pale Companion ’ — Andrew Motion : Viking , 11.95 pounds",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Next time we go to the sea .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ A little .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I ca n't support it .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "What was it , the Lords temporal and spiritual , that 's what they call themselves .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He is even re-opening the already opened Eastern Harbour tunnel and subway crossing .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Has he made a statement ? ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You sort of pass it without realising , going to the Dordogne .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Your people fought very bravely . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I 'll do n't know I pastry , I ca n't do that , I can do the rest but I ca n't make the pastry .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Stay in peace .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Here certain similarities with later ‘ post-Marxist ’ theorists such as Foucault or Lyotard , begin to become apparent .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We are betrothed .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well you wo n't have any trouble with Jeanie .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But the government wants to take away my son also .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Madame Mattli waved a dismissive hand .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The disaster was all the more stunning because people had come to assume that such things did n't happen .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": ", so we 've been doing a few need a good wash",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I would like you to come to London to work for me . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I mean , would n't he rather have Terry as a sort of permanent worker anyway ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , but just think of how much messing about there is .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If I can do anything I must know the facts . ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Up , up the alleyway by the Yorkshire , you got Yorkshire House there",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If he , if he says anything to me I 'll just have to tell him .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What happens if her father is unwilling or unable to stay at home with her ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A ‘ new Minister of Environmental Protection ’ would operate inside the DoE .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Why are the doors always wrote wrong way !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His next victims !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And he said well my father is doing today I ca n't do today I 'll do it Friday and I shouted down the stairs but he owes you a day you should n't be going in .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That money was invested as might be expected of the Tysons .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The sergeant meets Fairfax outside the cell .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ We are not in the business of polluting the environment , ’ Mr Wheeler insisted .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In April 1985 a tanker spilled 200 litres of PCBs over the main Trans-Canada Highway on the border between Ontario and Manitoba .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ He was an exploiter .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ Ole Sentue , I agree with you .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've got another weight watcher 's order form , four ,",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "that sort of person",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But if she can prove that you and I … ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is that your reading ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or after we followed the duff advice of a legal journalist in a newspaper ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "performing arts and that 's the technical",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Political expediency .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Do n't worry . ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ Do n't you approve of that ? ’",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Claudia sits with her eyes downcast .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Chatterton had spoken with genuine admiration .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah , well I 'll have a wander in Saturday night then .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Explaining crime : theories of criminality",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I will also get the translation of his evidence .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She was looking at er lights in Sainsbury 's the other day .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Decent",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He is wearing a blue tunic and around his shoulders is a fur cloak made of the skins of the hyrax .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This is strong",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "to go over do n't they ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ The plant should be relocated because it 's in the wrong place , ’ Llew Smith , the local Euro-MP , told me .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But as I say , in the Sugar House so I mean , we 've we , all we did was , was we the the big central area we just literally sort of lino type floor and carpeted round the edges",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No I did n't feel alright Ann .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "oh no , hang on , no",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ If we do it properly any spot is the right spot , ’ he insisted .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ooh there 's a lot of cars .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In his hands he holds a snuff box , shaped like a small quiver , and a thin stick .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That 's all well if you want it erased , I will I mean it 's upto you entirely",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mind you , she likes erm and they 're all separate , all the best ones round here are .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I 've got time ?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "‘ No , idiot — not so that I can steal them .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He took it back .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "yes , join you all",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In those cases there is no possible treatment , one is born a criminal .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And that Peter .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is being treated as a child an intrinsically humiliating and self-denying experience ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You know what happens , d' ya know what happens then they 'll get people",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Won it in the raffle gon na have a drop in our tea , warm us up !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I ca n't leave this district with one man hanged and another killed and somehow because of me .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah right as I 'm gon na be for the time",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Is it just that I talk to them that they love ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "St Jean-d'Angely is a charming little town : there are good shops as well as half-timbered houses along its narrow old streets , one spanned by an ancient bell-tower .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You wan na watch them old yeah , they come there with their little carving knives , yeah , cut all the dangly bits off that , that 's right though in n it ,",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That was eleven hundred pounds",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They do a dinner special inside there , I mean most places do roast",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It was rough !",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "what you put on there and that",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yes , I loved him , but I loved him in my Masai self .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Glenys has been doing it ever since ,",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yet this was Rechem International 's high-temperature incineration plant at Pontypool in Gwent , South Wales .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah , what have they got down in there ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula broke off .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They never got here , I was all morning .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I do n't understand it , if I live to be a hundred I wo n't understand it .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ta , see you later on .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "yeah that 's lovely , we did put in for some in February , we have this one in the we have n't got a cover that one .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Opening , closing .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A service in chaos .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Even if you do not intend to be disloyal there is always the risk that you might be careless .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Five hundred pound for carpets , leaves four hundred pound , two hundred pound for suite and the microwave",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But I told you before — I could n't afford to pay you what you 're worth .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Though I do n't suppose I could afford to pay you as well as Mattli does — yet .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "whole lot .",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Oh I did n't know that !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You missed that .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Actually they perhaps let us go back on them then",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "‘ That girl is a dog ! ’",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Mum , what about giving him something for being very",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Here Only me about me getting drunk , as if I would dear !",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You know , I remember him",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He does not appear to be disheartened .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Might as well get it in town .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "why what you speak to me , what were you saying ?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The old man says this without rancour .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There 's another wasted area .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We need Geoffrey along to advise us .",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Full stop ?",
+    "label": "yes",
+    "response": "no"
+  }
+]

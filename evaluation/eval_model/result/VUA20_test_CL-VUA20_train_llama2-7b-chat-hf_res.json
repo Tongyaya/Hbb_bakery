@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/VUA20_test_CL-VUA20_train_llama2-7b-chat-hf.json",
+    "f1_score": 0.8580941810686538,
+    "precision": 0.812124849939976,
+    "recall": 0.9095798319327731,
+    "tp": 2706,
+    "fp": 626,
+    "fn": 269,
+    "total": 3601
+  }
+]

@@ -11,9 +11,17 @@
     "file_name": "TroFi_test.json",
     "file_sha1": "85465cec367df934eb8e06872a07427f5d1e0c55"
   },
+  "VUA18_train_easy": {
+    "file_name": "VUA18_train_easy.json",
+    "file_sha1": "28918264485d82cd1ca80d8f56228424afc1a55e"
+  },
+  "VUAverb_train_vicuna-7b-v1.5_easy": {
+    "file_name": "VUAverb_train_vicuna-7b-v1.5_easy.json",
+    "file_sha1": "671338dd132b63b0edee5e72fb5fb32077696e1e"
+  },
   "VUA18_train": {
     "file_name": "VUA18_train.json",
-    "file_sha1": "93a94940898275854c8b5501cc87e8c055b0224c"
+    "file_sha1": "1c856de7f739cf08ec595f3a386c698feedb20ea"
   },
   "TroFi_train": {
     "file_name": "TroFi_train.json",
@@ -23,21 +31,45 @@
     "file_name": "MOH-X_train.json",
     "file_sha1": "10f43981105ef0a139beef0119d516e83a0fa683"
   },
+  "VUA20_train_medi": {
+    "file_name": "VUA20_train_medi.json",
+    "file_sha1": "38a59fa0489cb00c048fbdf99f85cf3998e8ca25"
+  },
+  "VUA20_train": {
+    "file_name": "VUA20_train.json",
+    "file_sha1": "83c852a0e6c54db2b48d2d08cca0e46501a55752"
+  },
   "ccl_train_base_qwen_hard": {
     "file_name": "ccl_train_base_qwen_hard.json",
     "file_sha1": "512a5f7d41a7ec3fc9be8bd1d9da01f7d847c23a"
   },
   "VUAverb_train": {
     "file_name": "VUAverb_train.json",
-    "file_sha1": "86145a4ecae3b37a1d3979e9848f0a63117ae6a4"
+    "file_sha1": "6c2262795866686ce8d4e6e98c711550b54ba0c2"
   },
   "MOH-X_train_medi": {
     "file_name": "MOH-X_train_medi.json",
     "file_sha1": "57e27a25752c8d0bf17da5b6a91ec96aaee983d7"
   },
+  "VUA18_train_hard": {
+    "file_name": "VUA18_train_hard.json",
+    "file_sha1": "6c20b287bf4b3278894e197e3dc9e0aeba6a0849"
+  },
+  "VUA18_train_medi": {
+    "file_name": "VUA18_train_medi.json",
+    "file_sha1": "7531e8db47177fbbe6e0b43e2fd942245d752f46"
+  },
   "TroFi_train_vicuna-7b-v1.5-0_easy": {
     "file_name": "TroFi_train_vicuna-7b-v1.5-0_easy.json",
     "file_sha1": "4eb2aeaceaf1fd03e6fe991f1ecfd0dd9dc08362"
+  },
+  "VUAverb_train_vicuna-7b-v1.5_medi": {
+    "file_name": "VUAverb_train_vicuna-7b-v1.5_medi.json",
+    "file_sha1": "c3183871b4c53ff97cbbb00f1c6efced1c42d0ac"
+  },
+  "VUAverb_train_vicuna-7b-v1.5_hard": {
+    "file_name": "VUAverb_train_vicuna-7b-v1.5_hard.json",
+    "file_sha1": "504d62851d3548e1f0d4c4be50a07d19e9f9f118"
   },
   "TroFi_train_vicuna-7b-v1.5-0_medi": {
     "file_name": "TroFi_train_vicuna-7b-v1.5-0_medi.json",
@@ -51,6 +83,10 @@
     "file_name": "meta_train_glm3_easy.json",
     "file_sha1": "4806425ddca6a505af5ee922e029ec7d3ac9e501"
   },
+  "VUA20_train_easy": {
+    "file_name": "VUA20_train_easy.json",
+    "file_sha1": "895eb8ec7a511c619488dbfc76adab8d493662c0"
+  },
   "ccl_train_base": {
     "file_name": "ccl_train_base.json",
     "file_sha1": "c2e587c5898338372ae6981319ad735849a7cf04"
@@ -62,6 +98,10 @@
   "meta_train_glm3_medi": {
     "file_name": "meta_train_glm3_medi.json",
     "file_sha1": "4016fb0d9a7d4b44a8fd37dd786db580a47387d4"
+  },
+  "VUA20_train_hard": {
+    "file_name": "VUA20_train_hard.json",
+    "file_sha1": "64d4a047bbb11ee4f1b404748ffbe0783d7024b3"
   },
   "cme_metaphor_train_5000": {
     "file_name": "cme_metaphor_train_5000.json",

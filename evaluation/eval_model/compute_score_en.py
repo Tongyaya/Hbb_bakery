@@ -56,5 +56,5 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'TroFi_test_CL-TroFi_train_llama2-7b-chat-hf.json'
+file_path = 'gpt2_mdei_VUA18_train_VUA18_test.json'
 scorecompute(file_path)

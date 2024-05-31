@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/gpt2_mdei_VUA20_alpha_train_CL_VUA20_test.json",
+    "f1_score": 0.7815936389781764,
+    "precision": 0.9340881520420542,
+    "recall": 0.6719022687609075,
+    "tp": 2310,
+    "fp": 163,
+    "fn": 1128,
+    "total": 3601
+  }
+]

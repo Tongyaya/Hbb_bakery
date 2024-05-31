@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/VUA20_test_VUA20_train_vicuna-7b-v1.5-0.json",
+    "f1_score": 0.8340618423182774,
+    "precision": 0.7543191800878477,
+    "recall": 0.9326574945691528,
+    "tp": 2576,
+    "fp": 839,
+    "fn": 186,
+    "total": 3601
+  }
+]

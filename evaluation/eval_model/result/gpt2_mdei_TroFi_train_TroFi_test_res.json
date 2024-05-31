@@ -1,0 +1,12 @@
+[
+  {
+    "file_name": "./model_output/gpt2_mdei_TroFi_train_TroFi_test.json",
+    "f1_score": 0.6851025869759145,
+    "precision": 0.6881720430107527,
+    "recall": 0.6820603907637656,
+    "tp": 384,
+    "fp": 174,
+    "fn": 179,
+    "total": 737
+  }
+]

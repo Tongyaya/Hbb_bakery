@@ -1,0 +1,2752 @@
+[
+  {
+    "input": "Terry phoned up asking what, Tuesday morning about quarter past eight said who was covering.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "While some genetic influence can not be ruled out, just what is inherited remains very unclear.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "An individual's degree of extroversion or introversion is inherited, determined by his or her genetic make-up.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But Aulnay, just over 10 miles north-east of St Jean, is probably the best, its unassuming architecture a perfect frame for the sheer artistry of the carvings round its doors and windows.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cos if you're looking at a two hundred capacity conference for er",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Shame about that bungalow next door but one, cos that'd be a nice bungalow but it's not very lovely they don't look after it very well.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But I have tried to talk to him, to persuade him to say that he thought the askaris were going to shoot him or that it was a misunderstanding, but he refuse absolutely to excuse himself.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh that's get his permission for nothing!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Bet it was erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It is not clear whether or not Harris thinks that children of 10 should be obliged to take on full political status whether or not they want to, but Holt clearly does not.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If you can't get it done tomorrow I'll try and get you a Doctor so she",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "One lunchtime when she had been at the House of Mattli for a few months Paula went there for her usual coffee and the cottage cheese salad that was her staple diet now that it was so important that she did not add a single half-inch to her wand-slim figure.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Travel: A pilgrimage sans progress Elisabeth de Stroumillo potters round Poitou",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yet it was Mr Clarke, not Mr Nichol, who was involved in the critical decisions â the cash limit for the NHS, the 6.5 per cent offer to ambulance workers( compared to seven per cent for nurses, eight per cent for doctors and nine per cent for ancillary workers); and today's introduction of military ambulances.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There is more greenery further south in the deep forest of Chize( with the fine Renaissance chateau of Dampierre-sur-Boutonne at its edge); and more marshes to the west around Rochefort and Marennes, where those mussels and oysters are raised.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In Liverpool, a dockers' spokesman with the Transport and General Workers Union admitted: â Drivers aren't happy handling some of these commodities, but at least a lorry-driver has more idea of what he is handling than a docker, who could have a consignment and just not know what it is.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â We must run it safely in the short term and long term, he said, â because if people are able to demonstrate that we are causing an environment problem we will be shut down.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'm looking for a couple of good models.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You're going on a sponsored slim",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Luxury life awaits private jail inmates",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â It's not arranged yet.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They were inflexible in operation, draughty, and mobile reminders of TB epidemics with the enamelled â Do Not Spit signs screwed to their bulkheads.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "but, er, you know er, at least if you go in there at least you've got",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â Can you manage a brandy and soda?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "An example of this more sophisticated biological approach is the work of Hans Eysenck, who has argued in a series of studies, that there is a link between genetically based personality characteristics and criminal behaviour.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I wished that Ellen and Rickie would go to their beds, for the soft mutter of their voices was an intrusion on the dark and star-studded infinity through which I steered Wavebreaker.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In those cases there is no possible treatment, one is born a criminal.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But I'd er, I'd you know the way they've, the way they've got it now I don't, I don't know.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The project team collaborated with teachers in eight co-educational comprehensive schools in the Greater Manchester area to devise and implement intervention strategies designed to improve girls' attitudes to the physical sciences and technical subjects.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There is evidence that girls tend to be socialized into adult roles more through their potential of becoming a mother and housewife than through their career( Douvan and Adelson, 1966).",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "To camouflage the failures of the play, Andy Walmsley has created a set which resembles a pile-up of roadside hoardings: Oldsmobile, Van Heusen shirts, Texaco Premium Type.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula said, though she could feel the seeds of panic herself.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mr Duncan Nichol wants to separate the emergency from the non-emergency work.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She doesn't stoop in and",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The boxing match â is the public incarnation of all conflict( II, 32), totalizing in its own struggle the whole of â contemporary irreducibilities and fissures( II, 26):",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah, you don't want to don't miss out on any thing do you?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You are a good model and you suited me very well.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I think everybody's finding finding it very amusing at the moment.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A question from our survey asked children whether they would like to know more about how a vacuum cleaner works; hardly anyone did, and girls were even less curious than boys.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I will try to get him off.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But only two million out of the 20 million journeys which ambulance crews carry out each year are emergency calls.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Perhaps she's told him he's going too fast!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "What, we may ask Harris, happens to the child who repeatedly fails his annual examination?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well can you supervise if you don't know what the hell's going on!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In the context of the negativity of this formulation, Sartre is obliged to pose once again the problem of whether there can be a totalization, without any independent totalizer or totalizing force such as the dialectic, or whether the structure of negation that he has described means that, as for Adorno or Bakhtin, history does not develop positively but, rather, negatively, and is therefore instead detotalizing:",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But please do not delay too long.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Bob makes tables.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well I mean, they'll all be packed up in the bars upstairs wouldn't they, and everything",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Responsibility for the Sex Discrimination Act, the Equal Pay Act and the Equal Opportunities Commission would be given to the Women's Ministry.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When you want to borrow on a mortgage, the prospective lenders will have the property valued at your expense.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Today's attraction-merchants are doing no more to lure 20th-century tourists than their medieval forebears did for pilgrims.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A fountain of blood at first pours from his chest, but soon subsides become a steady trickle.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "For numerous studies have shown that a high percentage of the population have committed criminal offences, in particular high proportions of juveniles, and it is difficult to believe that they are all different or abnormal.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Sort of jewellery you see.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "What time of day do you think you call this!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Even the most popular of girls soon discovered that in this highly competitive world where models vied with one another for the most glamorous jobs and the wealthiest and best-looking men there was far more bitchiness than in the provinces â and Paula was far from popular.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Up, up the alleyway by the Yorkshire, you got Yorkshire House there",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah well she's got to start tomorrow try.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As they move forward, Tepilit, without warning, hurls his spear at the district officer from a few feet away.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or: â When Cupid shot his dart He shot it at your heart.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "doesn't matter I'll, I'll keep phoning.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â I have been asked to supply the models and I would like you to be one of them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He is descended from Mbatian.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In April 1985 a tanker spilled 200 litres of PCBs over the main Trans-Canada Highway on the border between Ontario and Manitoba.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Keeping him busy out on estimates and",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "probably need to get Ken's permission!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "and and when this Peter come he said well you know, just show him everything and like you did me and he said he didn't wan na know thank you.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â Alas, disclaimers may work if, for example, the property being valued is industrial or an expensive house.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And it hasn't been sorted yet?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Hobbes does not tell us, but whatever it is it had better be something which a monkey does not have.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Psychological theories, however, see these characteristics as a result of unusual or abnormal experiences, rather than as inherited.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The ramshackle Whitley Council negotiating machinery is the other reason why the ambulance workers have lost out.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Cows were thought very unsightly when they were first introduced.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His view that letting children run in and out of busy airports smartly avoiding the traffic is perfectly reasonable depends upon a conception of a child which is far narrower than even the sex divide.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Major Fairfax will speak to the government.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Probably trying to get ahead for that, one of those.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He asserts it often enough: â History continually effects totalisations of totalisations,( I, 15).",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I would of thought it had been easier to erm to put down the name of",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": ", you took three of them didn't you?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Standing at traffic lights a Koenig-designed Jumbo is, save for the chatter inside, completely silent.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well that's it, if you don't feel like walking round the town tomorrow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Cos Rita assembled it for us.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We can hardly do justice to the wide scope of psychological theories here, but there are some basic ideas and assumptions which underlie such theorizing.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "These decisions can only be reversed with great difficulty.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The lower reaches of the Sevre Niortaise are swollen with the waters that once covered the whole area, until medieval monks started to dig a spider-web of ditches to drain it.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Or after we followed the duff advice of a legal journalist in a newspaper?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well the chap next door's finding it very amusing!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We walked past a tanker where a huge man named Andy Matthews was pumping vinyl acetate into a 10,000-gallon vat, wreathed in its sweet, sickly smell: â I've been here two years, he said.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And he said well my father is doing today I can't do today I'll do it Friday and I shouted down the stairs but he owes you a day you shouldn't be going in.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That means both that there is a dialectical meaning of the practical ensemble â¦ and that each singular event totalizes in itself the practical ensemble in the infinite richness of its singularity( II, 26).",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ah well that's what we're all waiting for, we're waiting for you to drop it!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I'll don't know I pastry, I can't do that, I can do the rest but I can't make the pastry.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "So er can they get, yeah, they get eleven, twelve",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax is securing its wheels with rocks.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This means that schoolgirls are ineligible for a wide range of courses in further and higher education and for entry to occupations requiring a scientific or technical base.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I know five hundred and sixty was extra cos Stuart gave me two hundred short of a thousand.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That boy will do anything for me, even up to getting himself killed by a lion.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Never mind you got as far as you could, so at least you got that far Deirdre.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â You know that we insist on complete loyalty, Madame Mattli continued.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That, says Mr Tyson, has been their only blessing.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Furthermore Madame Mattli was a Frenchwoman, an accident of birth which added to her glamour, for was not Paris the fashion capital of the world?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Shall we take photographs?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Even if you do not intend to be disloyal there is always the risk that you might be careless.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â You get sarcasm mainly.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But Mr Baker plainly views it as otherwise.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Our latest Foreign Secretary has yet to publicly pick up the file marked Hong Kong.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Maybe, but I can also, if I like, talk to my car, but yelling at it in the approved Basil Fawlty manner is hardly treating it as rational.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â No, idiot â not so that I can steal them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You know, I remember him",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "These are all referred to as â supertram networks, the implication being that the new-generation tram is an altogether more dynamic form of transport than its pre-war predecessors.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "WHEN things go wrong you can sue more often than you may think.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "His records are still played, but his personality, unexposed through movies or extensive TV interviews, is almost entirely unknown.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Start thinking, got nothing lose, start",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â Anyway, you've got me now so you can get rid of her.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The model came in with the cups of tea, still glowering darkly at Paula from beneath her fringe of false eyelashes.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Summer bedding is looking tired and should be removed so that the ground can be cleaned and fed ready for spring bulbs or wallflowers.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Almost every man is accompanied by a goat or a cow, held on a short leather thong or controlled by a thin stick.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah, we got five minutes.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah, can you put me down, the name down for the, alright, okay.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No matter; only the accents change â and the pants: here, the squares wear slacks, the good guys blue-jeans.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â We are trying to establish the Truth of History'",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â Don't worry.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The first time she rang the bell and went in through the front doors of the elegant old house where the showrooms were situated( Mattli had no rear entrance) Paula felt she was stepping into the place of her dreams.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Liverpool dockers recently turned back parts of a 1,500-tonne consignment of Canadian PCBs( polychlorinated biphenyls) bound for this plant in Gwent.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "thinking we'll soon get them and save you carrying it tomorrow, then.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There were new tricks of modelling to be learned too â how to remove a coat, sliding It carefully off her shoulders with the sleeves hanging in perfect balance, never for one moment allowing the inside to be on view, for samples were often unlined.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The other 30 per cent is to be operated by PowerGen, the other CEGB successor company.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Afterwards, incongruously dressed in a raincoat, she went to the bows and stared briefly down at the mesmerising onrush of sea where it split and foamed at Wavebreaker's cutwater.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I can say to the governor that you misunderstood the order and tried to defend yourself.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You ought to save them wooden type of things for it.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â He's precisely what anyone would expect of a drop-out Phys Ed basketball-playing retard, Ellen said scornfully, â by which I mean that he's a jock with the brains of a dung beetle.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The laibon stands to watch them go.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "CANBERRA may seem an awful long way from exchanges on the floor of the House of Commons over the European Monetary System.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We'll call in",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax stands up.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He is even re-opening the already opened Eastern Harbour tunnel and subway crossing.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I can't leave this district with one man hanged and another killed and somehow because of me.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Used to have tables and extensions you see",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well he's going to carry on like that isn't he?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â You can count on me!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He led the way, his slim hips in the tight fitting pants snaking gracefully between the tables.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He always gets like that and then he forgets after like a month or two when he hasn't worked for him.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You can't have left Mattli.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "By the time I've paid for my room at the YWCA and bought all the make-up and clothes I need there never seems to be anything left over.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Of the two prototype rock songwriters, it's the more worldly Chuck Berry you turn to for the authentic picture of teenage pleasures in Eisenhower's America: â Gon na write a little letter, Gon na mail it to my local deejay.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A common result of this is that when the philosophers deny autonomy to women, they do so for the same sorts of reason that they deny it to children and cite lack of rationality, capriciousness and vulnerability among their characteristics.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Her face is shaded from him in the failing light.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Of course got to cook so, depending on it will be about five o'clock so that they can get washed up.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "what you put on there and that",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "yeah that's lovely, we did put in for some in February, we have this one in the we haven't got a cover that one.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No, I've never heard that before, put your name down for your Christmas lunch",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Can't get through?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You can sue the professionals â builders, architects, surveyors or engineers â by courtesy of the Defective Premises Act 1972, despite the fact that you never had a contract with them yourself.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah and you feel like a bleeding rabbit.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No we don't wan na be looking at",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â We'll have a bit more sea, kick up some spray.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "For example Roe( 1952), Eiduson( 1962) and McClelland( 1962) suggested that male scientists often experienced a lonely childhood, perhaps suffering social isolation through illness or family circumstances, so that they developed a strong interest in their surrounding material world and a below average interest in other people and relationships.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But the same can not be said for duties and responsibilities.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax grasps the old man by his wrist.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She did not stay there long, but retreated from the fierce sun to the stern-cabin that she would be sharing with Ellen.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â And you told him to give himself up?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He lived locally, so how did neighbours view his job here?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Anxieties which are currently felt most acutely by those living near destruction plants themselves may not always remain so localised.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In May last year the Court of Appeal upheld a judgment against the friend for more than £5,500 damages for negligence because he had owed the accountant a duty of care.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But a disclaimer can never take away your rights under the Defective Premises Act 1972 for the collapsing conservatory or prevent anyone being sued for negligence which has caused death or injury.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He is perhaps surprised by her composure.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The farmer receives a rent of £15,000 a year and is relieved of the need to do any work for it.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'm on the P D C and it's it's going and the phones six baskets about twenty baskets to be checked minutes",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They cock their rifles and fire into the air.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Dimples played in his cheeks.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So all the hygiene things on food apply to alcohol.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Cos if you're not feeling up to it, as well lard?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â That girl is serious about giving it up, real serious, heavy serious!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is well established that in the delinquent-prone, home discipline is more liable to be too lax, strict or erratic.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "There was a fault on the computer governing the plant, said Mr Wheeler, and the fire had automatically shut down.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Save you, save you carrying them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "they must have been putting two thousand in you know",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula was not very clever with her needle but she soon learned to be careful so as not to incur the wrath of the seamstress.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Paula picked up her try and moved aside waiting for him, flushed with pleasure at seeing a familiar face.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The products of a conflict, as well as its residues, may seem incomprehensible insofar as they differ from the original intentions of any of the combatants.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I used to end up hitting them like a golf ball!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And Richard North looks at current provisions for the destruction of PCBs, and at the history of British involvement in a rather uncomfortable growth industry The security guard at the entrance to one of Britain's mightiest hazardous waste disposal plants pressed a button and the gate opened.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It involves nothing more than putting up 80-foot masts all over the land.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Let me see.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The â medium term industrial strategy which would form the centrepiece of Labour's economic policy would, according to the Productive and Competitive Economy review group, be â administered by a transformed Department of Trade and Industry.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That won't last till ten I'd rather go and rack.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She tells me she needs to understand it if she's going to defeat it.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The probable implication is that science would need to be presented in the context of the needs of society and individuals.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I get on very well with him though.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I know, what is going on!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It was this evidence which suggested the possible model for subject choice in terms of ego-identity achievement.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We I'll call in",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "One fisherman waxed lyrical about the variety of fish in the river.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Careful, slow down!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Several interventions were designed to make science more girl friendly.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Put them off today's",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No, but getting",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Me dad said he's had enough Well, we were debating whether to give it to you or not.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Lombroso's work, for example, was based on his examination of people in prison in Italy.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Claudia and Fairfax come closer.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â I've left Mattli, she said.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The girl pulled on her wrap and moved to the door looking back over her shoulder as she went and Paula was aware of the hostility in her gaze.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We'll call in, that will be better than phoning at least you know you know you're gon na get there.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Its corollary, whereby praxis becomes determining history, he called the â practico-inert, by which he meant the material circumstances that have themselves been created by previous praxes and which form the conditions for new praxis.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "That's the trouble when your at work and you got all",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And it may be that these disadvantages help to cause parental difficulties, and hamper good parenting.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'd go and give him a hand but I do not like ladders Fun isn't it?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Many psychological theories refer to faulty parent-child relationships, such as abnormal experiences in early childhood having a lasting effect and influence on personality.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "PRINCE CHARLES is jolly good at opening things.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Assuming the power station at the end of the line burns cleanly, the tram is virtually pollution free.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â We'll leave this for now, Claudia, he said.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax approaches very close to the laibon, between them.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You sort of pass it without realising, going to the Dordogne.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I believe you are exactly what I am looking for.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If each action negates the aim of the other, where is the â unity totalized in the conflict?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I didn't realize it at the time but I think it wants",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula repeated, stunned.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She bought it.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "As it happens, there is a kind of logic behind Buddy.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â Shall we take some coffee now?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Apart from anything else I owe you a coffee.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If there is a failure of imagination to use the royal visit creatively it will also be a failure of nerve.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She had met him back home in the west country when he had come to supervise a show put on by one of the big ready-to-wear labels, Carnega, for whom he worked as a junior member of the design team.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah, we pay all the year round for that don't we and that's all we bloody get out of it.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They've improved the chimney recently and it's very much better than it was but we still get the smells.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula perched herself against the cutting table trying to look nonchalant.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "No I don't, no, no, no, no, no, but I know it wants to be erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I erm got, check you've got two days, you've got give me the estimate, it's got to be on because she's expecting it to be done straight away on the computer and sent.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We'll call",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well, like I say if I want to bring my family, I've got to pay five pound which",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "All the food we need will be provided by monster underground funguses producing a regular crop of mushrooms without human assistance.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How does it â continually bring about the unity of dispersive profusion and integration?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Misunderstood by Decca Records, he maintains, â I wan na play ma music ma way.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They have been told that their claim may only amount to around £11,000 of their £15,000 as capital gains tax is likely to be deducted from the total.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In that event science must be seen to be relevant to the issues which concern them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'll get some tables up with erm",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "but er I don't know, if you like it see what I mean?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "yes, join you all",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Have we yet reached the point at which we would be awarded damages against the Meteorological Office because we went camping on the day of an unforecast hurricane?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fairfax turns to her.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The attacks are based on empirical observation; most women and older children are actually quite as rational as most men while some men are actually less rational.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He is still vividly scarred from his recent encounter with a lion.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He walks without a backward glance.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Don't sound a lot of weight but",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "By totalization, therefore, Sartre does not here mean anything like a predetermined end or final closure of a totality but rather a process of mediation among the parts, where each is determined by the other.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Go for a microwave or do you just go for",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â How can Fahfakhs save him?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "get",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If, on the other hand, you allow rationality to children, then you can not use their lack of it as a criterion to distinguish them from adults.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You can almost hear the soil gulping.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It mostly seems to involve producing food for animals to eat, whose excrement is then collected to assist the growth of more food for animals.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He chuckled, produced two cardboard cups, and poured me a generous slug of the whiskey.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There are strict time limits: generally, six years from when damage first occurred; where the damage was initially â latent you are given longer â three years from when you could have discovered it, with a longstop of 15 years.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We've only popped in to see whether you would like a lift into town now, before we go, rather than go into town and then come back just in case you want to",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He just said leave the Bird's Eye pies and start your trussing.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We ain't got a, just a mad man!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The one thing they do not do is to re-examine the original for the tell-tale signs of forgery.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well I didn't tell him it he can wind it just erase it I mean I don't I said I'm alright love just to do all that, I've got twenty tapes!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â I hadn't planned to work at all.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The crystal chandelier was for effect only â lighting that would show off the clothes to their best advantage was brilliant yet discreet, and along one wall were racks holding some of the ready-to-wear garments.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â I'm sure there's nothing to worry about.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And also, it's cos that, you know after we had that row about Terry, after Bank Holiday expecting not to have to do a day in the shop, and er he's already owing Brian a day?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Outside the front entrance of the House of Mattli Paula turned to give him a quick impulsive hug.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â We are an aggressive company, admitted David Wheeler, operations director at this plant and at Rechem's other incinerator, at Fawley.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We'll call in.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I mean Brian's pulled in a lot of work.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I think those 10th- and 11th-century sculptors were motivated not just by piety but also by a certain competitive spirit: if a church was finer than the one in the next village, more pilgrims would surely pause there.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "were moving and one thing and another, there's so much to do.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Women on there have to come off",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Then he pressed another knob and a big toy doll in his office window dropped its trousers.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well that's certainly my feeling I'm naturally disappointed but it I say, you did well and er",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "She was going to take it â of course!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Got a wardrobe like ours and then oh no it isn't it's a combination one it's having to go up through the window let's hope they don't drop it!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We're popping in to estate agents.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Going too fast! brake!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I take I take, only occasionally I go mad and let ripe and have quite a few, other times I just be on an orange juice and lemonade",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In such a situation the skilled care of social workers is crucial to ensuring that an unwanted by-product of success for some children is not the total destruction of self-esteem for others.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I'm gon na play with that and see what",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I tell you what make trestle tables are so expensive aren't they?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In 1987, aluminium melted in the furnace, reacted with water and exploded, sending a black cloud over nearby houses.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When women scientists employ such approaches, and describe their own work, as happened during the VISTA programme, girls are receiving double encouragement.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In fact yesterday we said I wonder if he's got a new car or whether he's got visitors.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula spent most of her free time alone, window shopping, visiting News Theatres, where she sometimes watched the programme of cartoons twice round, and drinking endless cups of Espresso coffee in caf©s and coffee houses.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They have progressed far beyond routine first aid.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Actually they perhaps let us go back on them then",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â You got money, you got fame, he pleads, â what you want to booze for?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She said you'd be the I mean, and family when Wendy and that go and er she they had to with a la carte, oh it cost her a bomb!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You can't you can't handle money and",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This drives the spear almost completely through his body.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "well he told me when I claimed",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "we'd pop in see how you were and",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Its most surprising room, covered from ceiling to floor in 17th-century paintings, should be a salon or library; instead, a dotty stone bathtub was set into one wall at a later date by a lady called Charlotte.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "all, just hardboard like that, with just a little O like that and you, you, you shout a pint of beer and you pushed your money through and then a beer came out the other side!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A section of the road was shut for a week and motorists were warned to clean their cars and to dispose of the rags in plastic bags.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "She is the child of this paper unless I indicate otherwise.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Between the knife-shaped iron blade and the tapered tail of the spear is a rounded handle made from a particularly hard tree.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The funding of higher education would become the responsibility of one body, rather than two.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â And it's even harder, Jackson Chatterton's voice was suddenly sinister, â for a poor person who has no one to help them.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Struggled with it a little",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They've, they put like twelve, thirteen",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As this is not a book on criminological theories, what follows will be a brief overview of a wide range of theories and explanations.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "From the hostel it was only a short tube ride to South Audley Street where Madame Mattli had her showrooms â yet another advantage, Paula thought, trying to weigh up the points in favour of the hostel, which she hated on sight.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "John, I hope you don't mind, I said got ta call he said you",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The day thrift turned into a nightmare.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How do you get to that?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It might be for Wisbech one, they've gone to, cos erm, I mean they've got two at Lynn, so it must be Wisbech",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There's another wasted area.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But inside she was bubbling with excitement.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The raw materials might have been there before â indeed, hadn't it been she, Arlene, who had spotted them?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah cos I might I might not go up, you know, I see what Sheila says so",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Until one morning in June 1988 when George Tyson turned on the radio to hear a small, investment business called Barlow Clowes had collapsed.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â Does that mean they'll be seeing green monkeys and blue snakes up the rigging?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Opting for science will permit and possibly reinforce emotional reticence.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Thus, we will look initially at biological and psychological theories.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I said I got a good joke for you here, started to laugh and he said I ain't said it yet!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The GIST hypothesis was that female under-achievement in science and technology is at least partly socially constructed by the school, an hypothesis based on research evidence as well as critical feminist analysis( see, for example, Kelly, 1981).",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There would in addition be a minister for Science and Technology at the newly supreme DTI, with responsibility for determing investment in research.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They just use to rest of it, yesterday, didn't I, last night.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Not unless someone puts their foot down.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "That's not gon na go through that window anyway, is it?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Volks took them into, not Volks, er what they called?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "First he's never seen, surprises he's always.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Right here, in this gaping mouth, lies the end of the chain.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "As with a new one you'll probably gon na get four, five, six, seven,",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Like Holt, Harris believes that the so-called incompetence of children is an adult invention imposed on children for adults' convenience.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Children â¦ love to be treated as Rational Creatures sooner than is imagined â¦ by which â¦",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "As for the House of Mattli, it might have been in a different world to the hostel, with its air of being a cross between a workhouse and a boarding school.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â I told you â I've left Mattli.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Biblical motifs recur â some art-experts call them sermons in stone, and their messages would certainly have been clear to the often-illiterate medieval pilgrims trudging to Santiago de Compostela in Spain.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We were alone on deck, though not the only ones awake for I could hear Rickie and Ellen's voices coming from the open skylight of the main saloon.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This chapter will examine a range of theories which attempt to explain such behaviour.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Outside the capital, accident and emergency services were being provided in most areas, but the ban on emergency work was tightened.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If we got Terry to do that we'd be well away.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â Kind of starving, she justified her theft, then poured herself some diet soda.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "All that counts are the records, a rhythmically unusual Tex-Mex fusion of rock'n'roll and older western elements, pioneering what became the standard pop instrumentation of two guitars, bass and drums.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Course, the other thing you've got ta invest in is tables and well you don't need chairs, but tables, I mean as you can see we've got two hundred of those poly-cotton chairs in there which is erm can be used.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "See John when he as soon as John arrived he said to me will you take me he said, I don't wan na learn it proficiently but I want to know every job so I then took",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Oh I went we were absolutely you know everybody claimed something",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So I have decided to move to London and open a showroom.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Or: â You give me all your lovin' And your turtle-dovin'.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â I felt it was so safe, they were so professional, said Mr Tyson.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The rest of the questionnaire about science curiosity showed that all the children were enthusiastic about learning science, and that girls were keen to know more about nature, the environment and medical science.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This is also the view put forward by John Harris, though in less specific terms.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Rob Bettinson, the director, has deduced that he ought to have these images plus disc-jockeys, radio commercials, midwestern hops, but he doesn't seem to know why.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Every time they collect our cows, they promise to give us something in return, but the next time ask for more cows.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The dialectic is the law that remains hidden.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â I hear you have been seen going into the House of Oliver, she said, her immaculately painted lips tight with fury.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It's stopped raining.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "St Jean-d'Angely is a charming little town: there are good shops as well as half-timbered houses along its narrow old streets, one spanned by an ancient bell-tower.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In Britain, with the main exception of Blackpool( not forgetting the single-deckers of the Isle of Man and Llandudno), trams had been largely relegated to the history books.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You missed that.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â We must keep in touch, Gary said as he finished his cheese roll.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And, if Holly's too boring for that, perhaps the best approach would be to write about his impact on others.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Your conservatory collapses as a result of negligence of the professionals who were engaged by the previous owner to put it up.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "MODERN trams, as most continental Europeans know, neither shake nor rattle, nor do they roll.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He took it back.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But if he was moving to London his new fashion house would soon be a talking point.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I've got ta be I won't actually do it I'll just come in run a just give it complete customers and and help",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Now the Marais Poitevin is a pleasantly low-profile tourist attraction where you can take canal-boat trips from villages that have hardly changed in the 15-odd years I've known them: Maillezais, with a huge and rather dull ruined abbey, and Coulon, where I first ate the delicious local version of moules marinieres called mouclade.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'll tell you what I said erm ah ah ah ah she's talking to herself, but Ann will get on to you she'll think I haven't done it!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is not language since Hobbes is here talking about the prelinguistic child.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I hoped Thessy was fast asleep for he would be taking the morning watch.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The showroom was neither large nor small, decorated in muted shades of aubergine which would not detract from the clothes.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Its conically-roofed tower, hugged about by a brood of smaller roofs shaped like candle snuffers, is visible for miles.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Except that the Tysons don't gamble.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Generations of philosophers have documented this process.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "but the other, the other do I really made",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Even though some of the most dangerous and persistent toxins, including polychlorinated biphenyls, PCBs, are no longer manufactured, quantities of them still exist, and must be got rid of.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They are based on the idea that criminal behaviour is either inherited or a consequence of unique, individual experiences.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They also had slightly more positive attitudes towards science and scientists and were less likely to define them as exclusively masculine.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "London's venerable red and cream double-deckers rumbled along the Thames embankment for the last time in 1952.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "If she sues I'll be ruined.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The only two Hong Kong legislators who consistently dare to speak out, Mr Martin Lee and Mr Szeto Wah, have been threatened with expulsion from the committee now drafting China's post-1997 Basic Law.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A solicitor fails to draw up a will within a reasonable time for a client who subsequently dies.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â She allowed a man to persuade her into taking the drug, so she can only blame herself for her predicament.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "But it has now become clear that further drastic amendments are needed to flotation plans.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Turnbull busies himself with his clipboard as his reply is translated.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Erikson does not suggest that the development of an ego-identity is a once-and-for-all issue.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Don't worry.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I seem to have lost my purse â¦ she explained.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The plane is taxiing, pursued by a group of running Masai warriors, glorious in their red and purple robes, ochred hair, lion head-dresses and so on.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A â new Minister of Environmental Protection would operate inside the DoE.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The smell released by a pig or chicken farm is indescribable, and can affect 10 square miles of countryside around.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Here certain similarities with later â post-Marxist theorists such as Foucault or Lyotard, begin to become apparent.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I want to talk to the Masai man you are holding.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'm sorry to leave you, but I assure you you need not worry on that score.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There are three key causes of the shambles: Mr Kenneth Clarke; the failure to separate emergency from non-emergency work; and the Whitley Council negotiating machinery.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Britain grinds out almost five million tonnes of hazardous waste each year, of which about 63,000 tonnes are so difficult to store or treat that they are burnt at high temperatures here in Gwent or at one of three other centres: Ellesmere Port; Fawley, near Southampton; and the unfortunately named Killamarsh, near Sheffield.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The waste arrives at the rate of up to seven tanker-loads every day â that is seven lorries passing thousands of doorsteps.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "My life would be finished.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â It is that hard, he said ominously, and I thought of John Maggovertski's sadness for a pretty girl who had whored herself to pay for the white powder.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "You've just got to give, you know, we've put by and we said.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Soon it is passing over the spectacular Rift Valley.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Even when the hits start, he's not content.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The approach was collaborative: teachers were invited to work with the team as equal partners in the attempts both to investigate and find solutions to the GIST problem.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There is obviously something wrong with a portrayal of children as totally lacking in reason until they leap out of bed on their tenth birthday announcing that they are now able to act on principle.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And one wanted re-estimating, the other one wanted a few more prices cos everything like marble tops which are going to cost a fortune to get done.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "say, there's so many combinations that's the thing isn't it?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Regular soil and grass tests showed no difference between PCB contamination in the immediate area and elsewhere in Wales â though there are no established â safe levels for these.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In the medical faculty at the University of Rome there is a gallery of portraits of splendidly ugly delinquents who were used to illustrate Lombroso's theory.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Last month it was announced that Britain will get its first new-wave trams in 1991.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Pumps sucked air inwards.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Children must be taken care of by others and protected from external injury and against their own actions.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We can't afford any sloppiness.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "If you didn't know the tunes, you'd assume Holly's lyrics decorated some innocent backporch spooners from the turn-of-the-century: â Stars appear and the shadows are fallin' You can hear my honey callin'.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They will also tend to be authoritarian, conservative and controlled in their thinking.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "My passion is for its numerous Romanesque churches, in most cases humbly proportioned but elevated into unique works of art by the richness of their exquisitely-sculpted decoration; to go to Poitou/Saintonge and not look at any of its churches would be like going to an African game reserve and ignoring the animals.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "You got ta be at work.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But the government wants to take away my son also.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We're actually going a bit over we were going forty five, we're now back to forty now.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "A lot of my friends are pleased that the company is doing the job they are doing.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We also know that at about the age of 13 a very high proportion of boys are attracted to science and scientific careers.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "nothing to do with, he stood there, he said, it's not working, and he paid the bloody bill I put them on right.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well just keep going round.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â If you say that at your trial, they will kill you.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Stack emissions of PCBs were below the American standard for breathing air- 1,000 times lower than the British equivalent.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "It would be able to â require each government department to review its policies, practices, and existing and proposed legislation.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "While such notions may all contains some elements of truth, they are by no means complete explanations of criminal behaviour.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "There would be Skills UK â a locally structured training commission â a Fair Wages Commission, a Health Technology Commission, a Health Quality Commission, an Education Standards Council, an Independent Sentencing Council, a Children's Commissioner, an Environmental Protection Executive, and a Social Insurance Fund administered by â¦ â an independent commission.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But the book's principal defect remains the vacuity of its protagonist.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Neither boys nor girls at the moratorium stage are likely to be attracted to the science that is usually presented in our schools.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â It was about 8.30am and I was just getting dressed when it came over on the news, said Mr Tyson, a former clerk of works at Harrow council, London.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Well I don't feel",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Claudia rises.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â Having trouble? a voice beside her asked.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "However, the fact that the study was restricted to institutionalised delinquents limits the validity of the association between body build and crime and delinquency.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "order my",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Other British towns, Croydon and Southampton among them, are also considering modern tramways.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "What's the point of carrying on like that?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He's like a ferret!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The prison has a medical block with 24 beds and a gym with equipment that staff said would be the envy of many council leisure centres.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In a large, prefabricated shed we wandered past stacks of 45-gallon drums of PCBs, two drums high, about 10 deep; and there were contaminated transformers waiting to be cut up and roasted in the flames.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Piles of ruddy-brown ash lay heaped on the floor.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Paula was going hot and cold by now.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I've only got until tomorrow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Female exclusion from science and technology, even if it is apparently by girls' own choice, also means that as citizens their ability to understand and control their environment is limited.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We get smoke from the steel works across the valley, but we know what that is and we're not afraid of it.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Why doesn't he make make your own bloody mincemeat then!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "This model seems to explain our observations.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He had to collect the cattle and make sure that every boma was contributing his fair share.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Although he failed to check it had been accident-free, he assured the lady that this was the case.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Most of us prefer to watch Dallas than our neighbours' home-movies, because, when it comes down to it, we know that truth is generally a lot duller than fiction.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Mm, it would bounce up and down like a yo-yo",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The hero, Francis Mayne, is suffering from the adolescent's emotional confusion and acute self-consciousness.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They live only through The Sound Of Music and Funny Girl.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "But at least I was not trying to stand completely outside this life with my little notebook.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "For example, lower working-class people are more likely to be mesomorphic as a result of their diet and continual manual labour, and this class grouping is more likely to be found represented in the criminal statistics.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "For example, lack of discipline in the home, genetic defects, poverty, mixing with the â wrong sort have all been proposed as causes of criminality.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I mean, that you should make them sensible by the Mildness of your carriage, and the composure even in your correction of them, that what you do is reasonable in you and useful and necessary for them.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah, what have they got down in there?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "We'll have the Wednesday off when you cross",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A proportion of both boys and girls at ego-identity achievement stage will choose science.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â That's what they used to say about women is not a proof that saying it about a child is false.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "time er, put it right.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "I'm, I'm going to erm we'll make that into something American.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Several special science or craft clubs were organized in the lunch hour for girls only and in two schools teachers planned single-sex teaching.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Criticizing a don't want them in town and then put functions on and cheap beer for them when they come.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Ha it won't go more than that!",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "you are in strange mood today, now you wan na run over a few cyclists, well there's an old lady and man there, I mean, why not pick them!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Oh I haven't got that long to make them, yet am I?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â The priority of MAFF must become food, not farming, the policy review says.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Rights and privileges do not pose any particular problems in the case of children.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well my brother's covered practically all week and Brian's doing tomorrow.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â See if you can rustle up a cup of tea for Paula and me, please.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "At least you keep in touch, some of them get shoved away and they never, nobody don't bother with them do they?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â I shall be sorry to lose you, Paula.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And he actually got that one done.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "One thing they are all quite sure about is that children are not like adults; in particular they agree that children lack some capacity for rational thought which adults have.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "warming it up again that does the damage.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They wanted to do something but felt powerless.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "In 1986, according to Friends of the Earth, a survey of the homes clustered on the surrounding hills found that three-quarters of 800 residents were opposed to the Rechem plant.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Other broad hints as to the date are inserted with a comical lack of subtlety: â My God, darling, have you heard? exclaims Francis's mother one day as she greets him, â Czechoslovakia.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And now my family have offered forty-nine cattle to his family, but the government will not take them to give to his family in England.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Tepilit does not stand up.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "In his book L'Uomo Delinquente, Lombroso developed a complex description of what he called the â born criminal, who could be recognised by a variety of physical characteristics, in particular facial characteristics â for example large jaws and ears, and high cheek bones.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Nine out of 10 are routine calls, many of which could be carried out by mini cabs.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Turnbull explains through the interpreter that time is short; it is late; there is a great war on with the Germans.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "It is all standard royal stuff, but not much help to the millions who fear that Hong Kong will not remain open after 1997.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I believed I was the first anthropologist in France to understand what this means.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This little group begins to mount a hill.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The problem with assessing the influence of parental and family dimensions, such as weak supervision or parental criminality, is the fact that they are closely linked to various aspects of social and economic disadvantage, such as poverty, overcrowding and poor housing.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "A Model to Link Personality Characteristics to a Preference for Science",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Gary ran a distracted hand through his mop of fair hair.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Law: Always take along a friend to sue: Litigation can pay off even in the unlikeliest circumstances.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â Can I have a little time to think it over?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Well, with all the trussing the might carry on trussing and get that done.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Otherwise, the best place to see working trams has been the tram museum at Crich in Derbyshire or else in old British Transport Commission films and Ealing comedies.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "PEOPLE tend to look vague when you mention Poitou.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "â Was it taken down by a policeman?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This piece of wood passes right through Turnbull, so that he is skewered.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Nail clippers, combs, toothpaste and toothbrushes, razors and washbags are neatly laid out on tables in the cells to await the arrival of inmates, many of whom will not be carrying such items because they may not have expected to be remanded in custody.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "When are you gon na make mince pies?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Biological( or physiological) explanations are based on the notion that some individuals are predisposed to criminal behaviour because of their genetic make-up.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Or: â Cruising and playing the radio With no particular place to go.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "His mother, by contrast, is the most vividly realised character in the book: nervy, flirtatious and selfish, already on her third husband, she thinks primarily of her appearance, even when visiting her dying daughter, Francis's twin.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I promise you one thing; he's brought none of it on board.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "How does History constantly totalize itself?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "got",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The major problem faced by theories suggesting a link between genetic make-up and criminal behaviour is the difficulty of distinguishing between genetic and environmental effects.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Fair enough, I think I work",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Back along the waste chain, the Liverpool dockers who objected to the import of exactly this type of chemical should be aware that PCBs are moving about our roads all the time.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "DUVETS, phonecards, hot showers and video films will greet inmates at Britain's first privately-run prison when it opens on Monday.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "probably need to get Ken's",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So who's covering tomorrow?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Cos you don't go as slow as this, even round here something like that Ann.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "And what they've, what they've got, they've got the bar in a far bottom corner",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Preliminary steps taken to conduct studies on trade, technology and investment flows in the region may seem insignificant.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We're midway through Act II and a solitary six-pack has yet to hove into view.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I believed I owed him some debt.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "but, at least you know you're going to get a decent amount of",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "This woman has come from far away to write about your people.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "At what age ought the education for youth to begin?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Shrubs such as hydrangea particularly relish rich rations.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Me and reckon that up in the canteen.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Heat shone out.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "No, no, not when it comes to pastry, a nice bit of apple pie and",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "To impose such a test on children would be a particularly invidious way of discriminating against them, unless Harris has in mind that we should all undergo such examination.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "They will perform some of the same functions, but they will not be an exact replacement for traditional trams.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Beyond the barrier lay some of the most toxic chemicals known, awaiting destruction by fire.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Sod off!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "So you can't handle, you can't handle",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He admits killing the DO.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Hold on to this",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Yeah, but just think of how much messing about there is.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Ay, I I've I've said that to them I said well you might have, if I take to work you'll certainly hear some they said well if that's common usage words that's what it has to be and words that we never use at all that are in dictionaries and nobody ever uses them, they want to know common ordinary speech words that we use.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The adolescent does not, however, need to achieve a clear ego-identity on all topics at one time.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He should be able to pick and choose.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Yeah but perhaps it won't go more than that.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Terry uses the shop to get extra money every so often, uses my dad ticking over running when he",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The sergeant's face is elaborately composed.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Is being treated as a child an intrinsically humiliating and self-denying experience?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "People will get so antiseptic that they'll not be able to stand any sort of germs of any sort.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The disposal of toxic wastes is one of the most intractable problems facing industrialised societies.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "Destined to run in Manchester, they will relieve traffic congestion and help to reduce the levels of carbon monoxide in the city centre, outlying suburbs and satellite towns of Bury, Altrincham, Salford, Oldham and Rochdale.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "He is not prepared to discuss this dishonourable argument.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "For Sartre's singular universal could never be expected to solve the formal theoretical problem of how individual existential existence can be related to History insofar as it simply renames, in one oxymoronic category, the original antithetical terms.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "â You know I'd give my right arm to have someone as good as you to model for me!",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We we will, I'm just saying we do wan na get into cocktail and",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "And then I asked my father on Tuesday to remind him and he said, he'd already said he'd fetch them in on Tuesday.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "They're just doing a kind of tour of loads and loads of houses cos they keep moving with his job.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "The Wolds, a remand centre at Brough, North Humberside, is far removed from the insanitary conditions which prevail at many jails.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "At present the science curriculum is structured around physical science interests, on which boys are keener( how motor cars work, atoms and molecules); we were able to recommend that teaching build on the overlapping interests of the two sexes, because girls as well as boys want to know more about human biology and spectacular features of the environment( animals in the jungle, volcanoes and earthquakes, acids and chemicals).",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "For the first time she felt the stirrings of something like power.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "no I feel about I I'll I've said to Ann, no I feel alright Ann but you know just I du n no I'm not quite myself am I?",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "We were thus officially a dry boat, though I had hidden some Irish whiskey in the engine room, and I was sure that Ellen would have similarly salted away some vodka.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "He needs to be for the next four days in Hong Kong, because he will be hard at work cutting ribbons and laying foundation stones.",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "I don't know mate, I only know that that's take us Ann and Paul and Ann and John and all them all doing all the others so",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "The government denies this, but has published the text of a letter from its Political Adviser to the New China News Agency( Beijing's embassy in Hong Kong) suggesting that it did.",
+    "label": "yes",
+    "response": "no"
+  },
+  {
+    "input": "What is it to be treated as a child?",
+    "label": "no",
+    "response": "yes"
+  },
+  {
+    "input": "Months later, when Marie had departed, Louis is said to have paused nostalgically at Brouage on his way to Paris after marrying the Spanish Infanta at St Jean-de-Luz.",
+    "label": "no",
+    "response": "yes"
+  }
+]
