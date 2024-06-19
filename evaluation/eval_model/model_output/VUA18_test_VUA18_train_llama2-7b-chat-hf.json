@@ -52,12 +52,12 @@
   {
     "input": "Perhaps he just means that they like the sound of my voice?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "If she sues I'll be ruined.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "New departments and quangos would, according to the review, be designed to act as irritants and antagonists within the Civil Service system.",
@@ -72,7 +72,7 @@
   {
     "input": "â We must keep in touch, Gary said as he finished his cheese roll.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Are you coming Christopher or are you going to sit here to have your meal?",
@@ -107,7 +107,7 @@
   {
     "input": "What they gon na, what they gon na by the pound?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But what about those conflicts that do not take place within such a constituted social system, such as conflictual bourgeois societies which can not be said to be unified, except, as Sartre suggests dismissively, by appeal to a lost paradise before the class struggle?",
@@ -117,12 +117,12 @@
   {
     "input": "I just can't believe how daft he is.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I am sure he would wish me to marry with someone in our tribe.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "No get a couple of light bulbs.",
@@ -137,7 +137,7 @@
   {
     "input": "I think everybody's finding finding it very amusing at the moment.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Name badges are worn by staff.",
@@ -172,7 +172,7 @@
   {
     "input": "They sit in the dust of the vanished cattle.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â What are your plans? he asked me.",
@@ -257,7 +257,7 @@
   {
     "input": "but when you come and sit here at night",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â Shall we take some coffee now?",
@@ -327,7 +327,7 @@
   {
     "input": "Or: â You give me all your lovin' And your turtle-dovin'.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "If we agree that in that case women should be embraced by the liberty principle then so should children.",
@@ -367,7 +367,7 @@
   {
     "input": "Let me see.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "be amazed.",
@@ -387,7 +387,7 @@
   {
     "input": "but, er, you know er, at least if you go in there at least you've got",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Mum, how many straws do we need?",
@@ -397,7 +397,7 @@
   {
     "input": "Sometimes he is reminded of several things.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "For example, lower working-class people are more likely to be mesomorphic as a result of their diet and continual manual labour, and this class grouping is more likely to be found represented in the criminal statistics.",
@@ -482,12 +482,12 @@
   {
     "input": "I'll come and work for you.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "We honour the Masai above all people.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Driving away, I noticed that the vast chimney was still not functioning, but when I called at a neighbouring house a woman showed me videos she had taken of smoke coming from the plant, settling in her garden.",
@@ -552,7 +552,7 @@
   {
     "input": "She bought it.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You're gon na have to have somebody else to take the money won't you?",
@@ -567,7 +567,7 @@
   {
     "input": "but the other, the other do I really made",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I tell you.",
@@ -597,7 +597,7 @@
   {
     "input": "time er, put it right.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Just keep, just, in fact just keep well let's get it sorted out and then we'll just get er er cos plenty of storage space and stuff.",
@@ -632,7 +632,7 @@
   {
     "input": "The model stood motionless, clad in nothing but her bra and stockings, waiting for his instructions.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Think later, be about five o'clock or quarter to five, or something like that depends when it's on, have to come in early if they want to have it with us.",
@@ -657,7 +657,7 @@
   {
     "input": "But the regulatory functions over the food industry, now split between MAFF and the Department of Health, would transfer to a new Food Standards Agency.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "difference wasn't worth putting that down.",
@@ -677,7 +677,7 @@
   {
     "input": "He's just about got it",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "That boy will do anything for me, even up to getting himself killed by a lion.",
@@ -692,7 +692,7 @@
   {
     "input": "â But you still got off cocaine?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Outside the capital, accident and emergency services were being provided in most areas, but the ban on emergency work was tightened.",
@@ -817,7 +817,7 @@
   {
     "input": "â Go in peace.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "She laughed at the suspicion of jealousy in my voice.",
@@ -842,7 +842,7 @@
   {
     "input": "I said I've failed!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Dialectical reason encounters such products as undecidables:",
@@ -977,7 +977,7 @@
   {
     "input": "Arising from the evidence in the literature and from our empirical studies at Chelsea College it is now possible to offer a model which is compatible with all the evidence and which also has considerable predictive potential.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "We'll have to go",
@@ -987,7 +987,7 @@
   {
     "input": "Given that Holt is presumably not volunteering himself to take care of her, who will?",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "He shrugged.",
@@ -1012,7 +1012,7 @@
   {
     "input": "Some of the women are in robes of blue, others are in brown, dyed skins.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You don't look well.",
@@ -1037,12 +1037,12 @@
   {
     "input": "I'll work it out",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I'd go and give him a hand but I do not like ladders Fun isn't it?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "In the long hours when there were no customers to show she was expected to lend a hand with some of the unskilled tasks â running errands and making tea, unpicking a seam or a hem, even sewing on a button or a hook and eye when she had been taught the proper way to do it.",
@@ -1252,7 +1252,7 @@
   {
     "input": "â We are an aggressive company, admitted David Wheeler, operations director at this plant and at Rechem's other incinerator, at Fawley.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â He's precisely what anyone would expect of a drop-out Phys Ed basketball-playing retard, Ellen said scornfully, â by which I mean that he's a jock with the brains of a dung beetle.",
@@ -1362,7 +1362,7 @@
   {
     "input": "In 1987, aluminium melted in the furnace, reacted with water and exploded, sending a black cloud over nearby houses.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "In virtually every case the aim of causing upheaval is explicitly declared, because Labour's aim would be to upset the bureaucratic order it inherits.",
@@ -1417,7 +1417,7 @@
   {
     "input": "'Bye for now! she called, and ran in through the imposing front door.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Yep, just going.",
@@ -1447,7 +1447,7 @@
   {
     "input": "â Anyway, you've got me now so you can get rid of her.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â Taylors have a certain amount of stock but she will be bringing extra samples from London especially for the show.",
@@ -1517,12 +1517,12 @@
   {
     "input": "The Masai stand a short distance off, curious, but self-absorbed.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "He says that this particular animal is a favourite.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I'll I'll be finished before long.",
@@ -1537,7 +1537,7 @@
   {
     "input": "It looked like that, didn't it?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You should of said well alright, I'll take them away then took them right away then,",
@@ -1572,7 +1572,7 @@
   {
     "input": "We really ought to be going to some to truss.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Or if anybody told me, I mean I wouldn't and talking in confidence about their private life or",
@@ -1632,7 +1632,7 @@
   {
     "input": "The raw materials might have been there before â indeed, hadn't it been she, Arlene, who had spotted them?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "It is well established that in the delinquent-prone, home discipline is more liable to be too lax, strict or erratic.",
@@ -1682,12 +1682,12 @@
   {
     "input": "He won't last for a ten now done the, done the Welcome Break, they done the Char Grill, now they're on the Tescos.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I believe you are exactly what I am looking for.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "There's incredible wasted areas in this place!",
@@ -1697,7 +1697,7 @@
   {
     "input": "The sergeant meets Fairfax outside the cell.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â It's called the Hole in the Wall.",
@@ -1747,7 +1747,7 @@
   {
     "input": "Although she enjoyed her job Paula was lonely.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Yeah, I'm going in as well darling.",
@@ -1777,7 +1777,7 @@
   {
     "input": "Only you can help me.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "So you can't handle, you can't handle",
@@ -1877,7 +1877,7 @@
   {
     "input": "I want to talk to the Masai man you are holding.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "He did nothing to them, but they want to kill him.",
@@ -1957,7 +1957,7 @@
   {
     "input": "Yeah, I already told that.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The disposal of toxic wastes is one of the most intractable problems facing industrialised societies.",
@@ -1967,12 +1967,12 @@
   {
     "input": "â I will do what I can, I promise.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Yeah they've got it",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Standing at traffic lights a Koenig-designed Jumbo is, save for the chatter inside, completely silent.",
@@ -2162,7 +2162,7 @@
   {
     "input": "He can not wait for the proposed exchange of animals.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "They also had slightly more positive attitudes towards science and scientists and were less likely to define them as exclusively masculine.",
@@ -2237,7 +2237,7 @@
   {
     "input": "On his head he wears a head-dress of lion mane.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Certainly, we have neither the design nor the actual possibility of showing here the full truth of dialectical materialism â¦",
@@ -2407,7 +2407,7 @@
   {
     "input": "You can't steal their ideas!",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Responsibility for the Sex Discrimination Act, the Equal Pay Act and the Equal Opportunities Commission would be given to the Women's Ministry.",
@@ -2507,7 +2507,7 @@
   {
     "input": "The runway is simply a strip of grass, cleared of rocks.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "No, you wan na pound.",
@@ -2552,7 +2552,7 @@
   {
     "input": "Ellen was still awake, talking in the stateroom with Rickie, but everyone else seemed asleep.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Several special science or craft clubs were organized in the lunch hour for girls only and in two schools teachers planned single-sex teaching.",
@@ -2572,7 +2572,7 @@
   {
     "input": "They've got one at cos I mean I went and had one so there must be one, another one",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Well I don't know, if you're just gon na write down",
@@ -2617,7 +2617,7 @@
   {
     "input": "Heading for default.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â I'll need it.",
@@ -2632,7 +2632,7 @@
   {
     "input": "â And you told him to give himself up?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â I guess you can guess, he said.",
@@ -2792,7 +2792,7 @@
   {
     "input": "His district stretches nearly one hundred and fifty miles.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "However, when he poses the question of whether his method could work as well for the class struggle as for the boxing match, Sartre admits that he finds it impossible to answer and returns instead to the much easier case of sub-groups.",
@@ -2807,7 +2807,7 @@
   {
     "input": "Wonder if she goes to MacDonalds every night for her tea?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "No no got all that.",
@@ -2822,7 +2822,7 @@
   {
     "input": "It mostly seems to involve producing food for animals to eat, whose excrement is then collected to assist the growth of more food for animals.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The first half of the novel is dominated by the girl's death from leukaemia.",
@@ -2832,7 +2832,7 @@
   {
     "input": "Perhaps she's told him he's going too fast!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Yet because the philosopher's adult has traditionally been male, his children boy children, and his educational programmes designed to facilitate the transition between them, the ideal of the fully human person has been masculinised to the point where otherwise thoughtful and sometimes good and wise men have unashamedly admitted that this defining ideal is not applicable to half the species.",
@@ -2892,7 +2892,7 @@
   {
     "input": "From a distance we see Tepilit, walking steadily towards Ol Doinyo Lengai with his animals.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "We can do more than to reject such descriptions of ourselves; we can ask further questions: are children like this? is this why children are not autonomous?",
@@ -2902,7 +2902,7 @@
   {
     "input": "Saturday night there's gon na",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "You've been to see him haven't you?",
@@ -2937,7 +2937,7 @@
   {
     "input": "So I sent that off.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "There are always accusations of piracy and copy-catting, though they can't usually be substantiated.",
@@ -2967,7 +2967,7 @@
   {
     "input": "I didn't realize it at the time but I think it wants",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You know that I'm not gon na get out of course.",
@@ -2977,7 +2977,7 @@
   {
     "input": "â My father was an industrial chemist and he said if you want to go and work for them, go and work for them.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "We're always out they always tend",
@@ -2987,7 +2987,7 @@
   {
     "input": "Later, drums supposedly containing carcinogenic drugs were not opened for checking before burning( for health reasons) and three were â misdescribed.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The whole point of a visit to Hong Kong now, five months after Tiananmen Square, should be to declare with royal authority that Britain shares the concerns of the Hong Kong people and is determined to do something about them.",
@@ -3012,7 +3012,7 @@
   {
     "input": "The approach was collaborative: teachers were invited to work with the team as equal partners in the attempts both to investigate and find solutions to the GIST problem.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But inside she was bubbling with excitement.",
@@ -3077,7 +3077,7 @@
   {
     "input": "They cock their rifles and fire into the air.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You couldn't hope to convert them.",
@@ -3427,7 +3427,7 @@
   {
     "input": "Heat shone out.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "In a major study of institutionalised delinquents( delinquents in some form of custody) in the USA in the 1950s, Sheldon and Eleanor Glueck found that delinquent boys were twice as likely to have a mesomorphic build, a chunky, muscular, compared with non-delinquent boys.",
@@ -3452,7 +3452,7 @@
   {
     "input": "Something and School of Arts now it's called well technical",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But please do not delay too long.",
@@ -3467,7 +3467,7 @@
   {
     "input": "This man was very much liked by the Masai.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The big man had obviously come on deck to warn me what to expect from the twins, and for that I was grateful.",
@@ -3497,12 +3497,12 @@
   {
     "input": "They do a dinner special inside there, I mean most places do roast",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I've got another weight watcher's order form, four,",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But to allow herself to be dictated to in this way when she knew she had done nothing wrong was tantamount to admitting guilt.",
@@ -3692,7 +3692,7 @@
   {
     "input": "â Your people fought very bravely.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Well I I can't think!",
@@ -3702,7 +3702,7 @@
   {
     "input": "Yeah all she has to do is go go round her bit round just a normal road, across the road down a little bit and she's there.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Under strain for a start because it was technically ill-equipped to avert disaster or to cope with the consequences when disaster struck; under strain from commercial pressures which, as the inquiry puts it, â compromised safety; under strain above all because the people on the spot couldn't or wouldn't cope, were weary from gruesome working hours( the senior signal technician who heads the list of the culpable had had only one day off in the past 13 weeks), lacked adequate training, or simply couldn't be bothered.",
@@ -3752,7 +3752,7 @@
   {
     "input": "you know, leaning over the balcony and all that sort of er",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Alison Kelly sees at least four distinct senses in which it can be argued that science is masculine.",
@@ -3827,7 +3827,7 @@
   {
     "input": "Don't forget to get cooking apples, to put in the mincemeat.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Lombroso's work, for example, was based on his examination of people in prison in Italy.",
@@ -3912,7 +3912,7 @@
   {
     "input": "I'll talk to the DC.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "He maintains that there is a link between characteristics such as extroversion and criminal behaviour.",
@@ -3937,7 +3937,7 @@
   {
     "input": "Well it's getting up there.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I don't, I cook for Stuart, but I don't eat it.",
@@ -4197,7 +4197,7 @@
   {
     "input": "He's found it!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I was gon na drive anyway",
@@ -4207,7 +4207,7 @@
   {
     "input": "Can't get through?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I mean, the only way you could do that would be if you had a till at one end and people bought whatever they wanted and were given a voucher and you walked down the other end and exchanged",
@@ -4222,7 +4222,7 @@
   {
     "input": "He said he'd come to supervise, not to do it!",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": ", I'm only telling you what to expect you know, when you go on holiday",
@@ -4387,12 +4387,12 @@
   {
     "input": "â The priority of MAFF must become food, not farming, the policy review says.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â And I'm sure one day you'll find him.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Back along the waste chain, the Liverpool dockers who objected to the import of exactly this type of chemical should be aware that PCBs are moving about our roads all the time.",
@@ -4437,12 +4437,12 @@
   {
     "input": "Sound cheesed off, what's the matter?",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "they're treating alcohol as food.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "For the first time she felt the stirrings of something like power.",
@@ -4502,7 +4502,7 @@
   {
     "input": "â Oh hell, I shall have to go.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I have to ask.",
@@ -4647,7 +4647,7 @@
   {
     "input": "They wanted to do something but felt powerless.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Very well thank you.",
@@ -4697,7 +4697,7 @@
   {
     "input": "He straightens up and salutes Fairfax.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "He was born in Lubbock, married a nice Spanish girl and died young in a â plane crash in 1959.",
@@ -4782,7 +4782,7 @@
   {
     "input": "and I can work on it.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "And then watch",
@@ -4847,7 +4847,7 @@
   {
     "input": "no, you I've been trying all morning.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "There are a number of points to bear in mind.",
@@ -4862,7 +4862,7 @@
   {
     "input": "PCBs are so difficult to destroy, that Rechem's emission-monitoring systems are geared to detecting them on the grounds that if you destroy PCBs you destroy everything.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Sartre's account thus sets up the articulation of history, univocal meaning, and totality as the indissoluble set of elements required for the validation of Marxism, necessary in order to save it from its detour from itself.",
@@ -4932,12 +4932,12 @@
   {
     "input": "There are so many combinations of what to have, what to get, what we can't get, what we need really I think is, what we need is obviously going to be priority isn't it?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Whenever you I mean bothered when when they'll will be, you know.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Paula repeated, stunned.",
@@ -4982,7 +4982,7 @@
   {
     "input": "Thus, we will look initially at biological and psychological theories.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The bulk of the blame for all that is placed on British Rail, which knowingly permitted these things to continue.",
@@ -5007,7 +5007,7 @@
   {
     "input": "Preliminary steps taken to conduct studies on trade, technology and investment flows in the region may seem insignificant.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "There was a hint of sadness now in Madame's eyes but her mouth was set and determined.",
@@ -5082,7 +5082,7 @@
   {
     "input": "He grinned at her impishly.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â Rickie may have stopped his cocaine a day or two ago, which means he's probably already over the crash period.",
@@ -5132,7 +5132,7 @@
   {
     "input": "There was a fault on the computer governing the plant, said Mr Wheeler, and the fire had automatically shut down.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Turnbull busies himself with his clipboard as his reply is translated.",
@@ -5282,7 +5282,7 @@
   {
     "input": "You never know dear, you may be a very very fit ninety five.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Five hundred pound for carpets, leaves four hundred pound, two hundred pound for suite and the microwave",
@@ -5347,7 +5347,7 @@
   {
     "input": "He is perhaps surprised by her composure.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Yeah I had somebody come round and stuck their bloody",
@@ -5367,7 +5367,7 @@
   {
     "input": "Fairfax stands up.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Those who are still in a state to require being taken care of by others must be protected against their own actions as well as against external injury.",
@@ -5552,7 +5552,7 @@
   {
     "input": "No, no, not when it comes to pastry, a nice bit of apple pie and",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "No, going on holiday",
@@ -5642,7 +5642,7 @@
   {
     "input": "A young white policeman appears from his office reluctantly.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Ole Sentue Simel, you must speak to your son.",
@@ -5657,7 +5657,7 @@
   {
     "input": "and and when this Peter come he said well you know, just show him everything and like you did me and he said he didn't wan na know thank you.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Rights and privileges do not pose any particular problems in the case of children.",
@@ -5702,7 +5702,7 @@
   {
     "input": "Except that the Tysons don't gamble.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Rob Bettinson, the director, has deduced that he ought to have these images plus disc-jockeys, radio commercials, midwestern hops, but he doesn't seem to know why.",
@@ -5752,7 +5752,7 @@
   {
     "input": "She looks up into the sky in the direction of Ol Doinyo Lengai.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Other broad hints as to the date are inserted with a comical lack of subtlety: â My God, darling, have you heard? exclaims Francis's mother one day as she greets him, â Czechoslovakia.",
@@ -5777,7 +5777,7 @@
   {
     "input": "Yeah I've got a hat.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The young warrior, Tepilit, is arguing with the district officer.",
@@ -5857,7 +5857,7 @@
   {
     "input": "I have to talk to the governor.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â Can I have a little time to think it over?",
@@ -5892,7 +5892,7 @@
   {
     "input": "Tepilit watches as the district officer performs a brief hokey-cokey before falling face down.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "One may doubt whether modern farming has any useful purpose nowadays when everybody is on a diet.",
@@ -5952,7 +5952,7 @@
   {
     "input": "Me dad said he's had enough Well, we were debating whether to give it to you or not.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Well you'll have to er",
@@ -6002,7 +6002,7 @@
   {
     "input": "I asked Ellen that afternoon.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Claudia summons her servant who brings a coffee pot.",
@@ -6017,7 +6017,7 @@
   {
     "input": "I'm watching these.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The sounds are the same as those of daylight, yet somehow the night magnifies and sharpens the creak of a yielding block, the sigh of air over a shroud, the stretching of a sail, the hiss of water sliding sleek against the hull, the curl of a quarter-wave falling away, and the thump as a wave strikes the cutwater to be sheared into two bright slices of whiteness.",
@@ -6162,12 +6162,12 @@
   {
     "input": "Do you know it was only five lines.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Or: â Cruising and playing the radio With no particular place to go.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Piles of ruddy-brown ash lay heaped on the floor.",
@@ -6182,7 +6182,7 @@
   {
     "input": "Rickie lit a cigarette.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "While they were looking round the garden I you've got to get out the shower quick.",
@@ -6192,7 +6192,7 @@
   {
     "input": "Cows were thought very unsightly when they were first introduced.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "That's not gon na go through that window anyway, is it?",
@@ -6332,7 +6332,7 @@
   {
     "input": "I guessed, but did not make him confirm my guess.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "She was in first thing, I mean I sent it off that evening she was in first thing the next morning yes that's fine.",
@@ -6342,7 +6342,7 @@
   {
     "input": "no I'm alright Ann, I mean, feel a bit ah I mean I'm sorry I do have to buy a feel a bit of, I feel a bit dizzy you know as if I",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Does he think she will spend the rest of her life milking his cows and goats?",
@@ -6352,7 +6352,7 @@
   {
     "input": "â She's the best I could get â¦",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "In the cell Tepilit sits motionless on the floor.",
@@ -6417,7 +6417,7 @@
   {
     "input": "Now he oh, oh he's found the accelerator!",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Gary suggested.",
@@ -6557,7 +6557,7 @@
   {
     "input": "Oh I'll don't know I pastry, I can't do that, I can do the rest but I can't make the pastry.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "They may rightly feel that it is all really rather appalling.",
@@ -6577,17 +6577,17 @@
   {
     "input": "They came twenty minutes early, there's Brian up in the shower, there's me stuffing things in the cupboard under the stairs.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Gary looked crestfallen.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â You got money, you got fame, he pleads, â what you want to booze for?",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Fairfax is securing its wheels with rocks.",
@@ -6687,7 +6687,7 @@
   {
     "input": "Is it gon na get through the window, anyway?",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I do not say, either, that these rights and duties should be tied into one package, that if a young person wants to assume any of them, he must assume them all.",
@@ -6727,7 +6727,7 @@
   {
     "input": "But he tries to be reasonable.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "She was going to take it â of course!",
@@ -6767,7 +6767,7 @@
   {
     "input": "But if she can prove that you and I â¦",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "How can man make history if at the same time it is history which makes him?",
@@ -6782,7 +6782,7 @@
   {
     "input": "they must have been putting two thousand in you know",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Mum do you want a straw? straw.",
@@ -6862,7 +6862,7 @@
   {
     "input": "She adjusts her hat, a round bush hat, and walks towards the makeshift landing strip.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Lack of congressional action also forced the Treasury to suspend new sales of US savings bonds and of special securities for state and local governments.",
@@ -6897,12 +6897,12 @@
   {
     "input": "You ought to Rainbows or something got the car at least then",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "You mean she thinks you've been spying for me!",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I didn't realise how clear her speech was until I heard it on the tape.",
@@ -6942,12 +6942,12 @@
   {
     "input": "carrying it.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I mean, wouldn't he rather have Terry as a sort of permanent worker anyway?",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Nor does it contemplate the knock-on consequences for Labour ministers of attempting to implement their programme while rebuilding the governmental machine.",
@@ -6972,7 +6972,7 @@
   {
     "input": "I'll try again bloody lucky!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "As you come back from Brouage towards St Jean-d'Angely â on the D18 via the canalside village of Pont-l'Abbe-d'Arnoult, with a lovely Romanesque church faade â a sign at the junction of the D122 points you to the chateau whose improbably perfect lake and gardens stare at you from posters throughout the region: La Roche Courbon.",
@@ -6982,7 +6982,7 @@
   {
     "input": "But Mr Baker plainly views it as otherwise.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "A proportion of both boys and girls at ego-identity achievement stage will choose science.",
@@ -7027,7 +7027,7 @@
   {
     "input": "â He was very sick after the lion got him and he gave me his necklace.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Occasionally, though, a dramatist will uncover someone with an interesting story, regardless of how unknown or vaguely remembered the subject is.",
@@ -7082,7 +7082,7 @@
   {
     "input": "You'll soon find out.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Who says that?",
@@ -7117,7 +7117,7 @@
   {
     "input": "want to be helped.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But at least I was not trying to stand completely outside this life with my little notebook.",
@@ -7137,12 +7137,12 @@
   {
     "input": "You can make it different like and make it sort of still a dance area.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "If I want it spread around.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "If there is a failure of imagination to use the royal visit creatively it will also be a failure of nerve.",
@@ -7182,7 +7182,7 @@
   {
     "input": "We're sterilizing the bar with those.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "What about flour and things, have you got enough flour to get",
@@ -7202,12 +7202,12 @@
   {
     "input": "I would like you to come to London to work for me.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Well we think that that might be a new car.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "From the hostel it was only a short tube ride to South Audley Street where Madame Mattli had her showrooms â yet another advantage, Paula thought, trying to weigh up the points in favour of the hostel, which she hated on sight.",
@@ -7292,7 +7292,7 @@
   {
     "input": "We didn't finish them cos they wanted to start trussing early",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But the book's principal defect remains the vacuity of its protagonist.",
@@ -7327,7 +7327,7 @@
   {
     "input": "Wiltshire and Northumbria have already shown how much can be achieved.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I'm, I'm going to erm we'll make that into something American.",
@@ -7382,7 +7382,7 @@
   {
     "input": "Course, the other thing you've got ta invest in is tables and well you don't need chairs, but tables, I mean as you can see we've got two hundred of those poly-cotton chairs in there which is erm can be used.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "By time we've cleared all that especially the",
@@ -7547,7 +7547,7 @@
   {
     "input": "Oh I went we were absolutely you know everybody claimed something",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â Laibon, great-grandson of Mbatian, you must think again.",
@@ -7667,7 +7667,7 @@
   {
     "input": "They just use to rest of it, yesterday, didn't I, last night.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Can he say to him, â You must stop being a Masai.",
@@ -7817,7 +7817,7 @@
   {
     "input": "Yeah it's just nice to know if there is something wrong",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Not the district officer's order, but the translator's who spoke too fast without proper consideration, as Nandi people do, and the askaris pointed their guns at you.",
@@ -7837,7 +7837,7 @@
   {
     "input": "Fair enough, I think I work",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You can't, you can't get either, you know, proper",
@@ -7872,7 +7872,7 @@
   {
     "input": "It seems a funny day though.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Erm I mean Saturday night would be better Anne.",
@@ -7937,7 +7937,7 @@
   {
     "input": "When you killed the district officer it was an accident.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "get me a pack, you know.",
@@ -7977,7 +7977,7 @@
   {
     "input": "You mean Stuey's got time!",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Summer bedding is looking tired and should be removed so that the ground can be cleaned and fed ready for spring bulbs or wallflowers.",
@@ -7992,7 +7992,7 @@
   {
     "input": "Oh, I think they're about two pound bag of that?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "This man, Tepilit, was injured helping me with the filming of a lion hunt.",
@@ -8007,7 +8007,7 @@
   {
     "input": "Cos he'll eat them, he'll be stood there waiting for them coming out of the blooming oven!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The immature deliberative faculty will mature; children have the â possibility apparent of turning into rational beings( Hobbes); they love to be reated as though they were rational though they are not so yet( Locke); you can give the prerational child reasons for acting in certain ways and he will turn into the youth who is capable of having principles( Kant).",
@@ -8067,7 +8067,7 @@
   {
     "input": "Seven hundred did you say, oh no two seventy nine and three twenty something weren't it?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Analysis of these responses provides further information on sex differences and between those opting for different subjects.",
@@ -8077,7 +8077,7 @@
   {
     "input": "Erm it's a load of rubbish anyway!",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "He's got the gall to phone up on Tuesday and say Eileen can't do a day, we're going to be short of Eileen.",
@@ -8132,7 +8132,7 @@
   {
     "input": "â Did you accept any gifts?",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â I thought you'd never ask.",
@@ -8157,7 +8157,7 @@
   {
     "input": "Frantically she rooted round, then checked her pockets without success.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Fairfax speaks to Tepilit in Maa.",
@@ -8192,7 +8192,7 @@
   {
     "input": "They start to walk the short distance to her camp.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "What, we may ask Harris, happens to the child who repeatedly fails his annual examination?",
@@ -8282,7 +8282,7 @@
   {
     "input": "go back and go back and take when you go back.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â You know, that is an impossible question.",
@@ -8307,7 +8307,7 @@
   {
     "input": "but er I don't know, if you like it see what I mean?",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â See if you can rustle up a cup of tea for Paula and me, please.",
@@ -8392,7 +8392,7 @@
   {
     "input": "Mum, what about giving him something for being very",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Giving who something?",
@@ -8427,7 +8427,7 @@
   {
     "input": "It would be able to â require each government department to review its policies, practices, and existing and proposed legislation.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "They cut the engine to allow the animals to pass undisturbed.",
@@ -8477,7 +8477,7 @@
   {
     "input": "â Little one, I would like to speak with you.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Yet each individual bout articulates itself within the framework of the history of boxing, known and unknown.",
@@ -8562,7 +8562,7 @@
   {
     "input": "I've got extensions, sure.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Don't forget Ann, in fact it's probably one of and in the back.",
@@ -8727,7 +8727,7 @@
   {
     "input": "He's like a ferret!",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I wished that Ellen and Rickie would go to their beds, for the soft mutter of their voices was an intrusion on the dark and star-studded infinity through which I steered Wavebreaker.",
@@ -8792,7 +8792,7 @@
   {
     "input": "You can't have, it'd mean one to serve and one take the money.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "You know, I remember him",
@@ -8922,7 +8922,7 @@
   {
     "input": ", you can go second hand",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Outside the front entrance of the House of Mattli Paula turned to give him a quick impulsive hug.",
@@ -8972,7 +8972,7 @@
   {
     "input": "Eleven, you've got four hundred pound, you got so it's a good second hand one or a cheapy no, well it would be a cheapy I told him most of them around about seven hundred and ninety nine",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â All that happens in the play is based on fact, Janes pledges solemnly in the programme notes.",
@@ -8987,7 +8987,7 @@
   {
     "input": "Go and have a look, see what you got.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "A 26-year-old woman accountant who knew nothing about the mechanical side of vehicles asked her more knowledgeable friend to find a car for her.",
@@ -9002,7 +9002,7 @@
   {
     "input": "A servant is preparing lunch on a fire.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I erm got, check you've got two days, you've got give me the estimate, it's got to be on because she's expecting it to be done straight away on the computer and sent.",
@@ -9047,12 +9047,12 @@
   {
     "input": "Away you go.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Two warriors, one of whom is Saibol, Tepilit's younger brother, stand at a distance.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "We're midway through Act II and a solitary six-pack has yet to hove into view.",
@@ -9147,7 +9147,7 @@
   {
     "input": "So I have decided to move to London and open a showroom.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I've no no wish to learn it thank you.",
@@ -9157,7 +9157,7 @@
   {
     "input": "They are approaching the fire.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "She told him.",
@@ -9187,7 +9187,7 @@
   {
     "input": "So why John said would I show you how to truss nice, I don't wish to learn thank you!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I can count on you, Paula, I feel sure.",
@@ -9207,7 +9207,7 @@
   {
     "input": "That's what I say, you buy three pound of flour and two pound of mincemeat in a jar.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "I mean I could have made it up it was that easy.",
@@ -9232,7 +9232,7 @@
   {
     "input": "See, I don't bother.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Well just keep going round.",
@@ -9277,12 +9277,12 @@
   {
     "input": "No it's the flour and things like that we said it's",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Wouldn't be too bad cos you'd go down by the Jolly Farmer.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The psychological and moral elements of political action were almost the only ones to appear here, which is why intellectuals least inclined to politics were to be seen in the Resistance.",
@@ -9387,7 +9387,7 @@
   {
     "input": "You look, how you say?, as a raccoon.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â They won't give you any grief in the next few days, he said.",
@@ -9472,7 +9472,7 @@
   {
     "input": "Are we gon na get I don't think we're gon na get in.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "For example, girls at the age of 12 and 14 years seem to take a more mature attitude to personal relationships, seeing their complexity and reciprocal nature, while boys are more exploitative.",
@@ -9562,7 +9562,7 @@
   {
     "input": "We'll try one to one.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "A person may undergo crisis and commitment simultaneously and progress by route A. An alternative is to undergo a period of considerable self-doubt and self-examination in which all one's beliefs tend to be very fluid, a period known as moratorium, before acquiring beliefs for oneself and ego-identity is achieved( route B).",
@@ -9602,7 +9602,7 @@
   {
     "input": "â No, idiot â not so that I can steal them.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Yeah, you know like",
@@ -9612,12 +9612,12 @@
   {
     "input": "Shut your mouth! later.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But the district officer, Miles Turnbull, would not accept it â¦",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â You know that we insist on complete loyalty, Madame Mattli continued.",
@@ -9687,12 +9687,12 @@
   {
     "input": "The Masai who has been arrested, Tepilit, is from this district.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Madame Mattli waved a dismissive hand.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Might as well get it in town.",
@@ -9757,7 +9757,7 @@
   {
     "input": "Suppose Holt's 6-year-old does opt out of school?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â She won't have done that, Chatterton said with conviction.",
@@ -9767,7 +9767,7 @@
   {
     "input": "you are in strange mood today, now you wan na run over a few cyclists, well there's an old lady and man there, I mean, why not pick them!",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "However, there is a new plan to turn land over to wind farming.",
@@ -9822,7 +9822,7 @@
   {
     "input": "You'll be old one day just think when you're a little old man sitting behind",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Well, with all the trussing the might carry on trussing and get that done.",
@@ -9862,7 +9862,7 @@
   {
     "input": "â Tell him I am very sorry, but I must fill the quota.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â I knew his family well.",
@@ -9932,7 +9932,7 @@
   {
     "input": "They haven't mentioned it this year, have they?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Oh yeah, but I wonder if we're gon na all finished by nine o'clock and you'll have us all in your ha ha ha",
@@ -9952,7 +9952,7 @@
   {
     "input": "â Was it taken down by a policeman?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "IT WAS unfair of Auden to suggest, in his â Letter to Lord Byron, that a poet's â sense of other people's very hazy.",
@@ -9972,7 +9972,7 @@
   {
     "input": "A Model to Link Personality Characteristics to a Preference for Science",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "And let me tell you, coming off coke is the hardest damn thing in the world, and you're real lucky if you have a rich daddy who pays for people to hold your hand while you go through the hell of it.",
@@ -9987,7 +9987,7 @@
   {
     "input": "Have you seen the new rules on er bar staff?",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "After all, the Jumbo, a handsome and imposing articulated unit designed by architect, engineer and critic Klaus Giovanni Koenig, will be seen on the streets of Milan for the next half-century.",
@@ -10032,7 +10032,7 @@
   {
     "input": "I don't write anything, I send the tape in, they don't know who you are you're just a it's just a voice speaking nobody knows who you are or anything, they only know me nobody else.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â I think she'd do better to understand herself, Ellen said tartly.",
@@ -10142,7 +10142,7 @@
   {
     "input": "What has gone wrong?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Pursuing legal action would have cost them money they didn't have( unless it meant selling their house which was not an option) but doing nothing left them with the feeling that justice wasn't being done.",
@@ -10192,7 +10192,7 @@
   {
     "input": "â There is nothing wrong with milking cows and goats.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Speak to you later.",
@@ -10207,7 +10207,7 @@
   {
     "input": "â I don't earn that much!",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You got ta be at work.",
@@ -10222,7 +10222,7 @@
   {
     "input": "PEOPLE tend to look vague when you mention Poitou.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "At this point Sartre confronts the possibility that the whole project of the Critique, stated so confidently on its very first page â â it must be proved that a negation of a negation can be an affirmation( I, 15) â may break down.",
@@ -10267,7 +10267,7 @@
   {
     "input": "He is descended from Mbatian.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Paula's stomach turned a somersault.",
@@ -10297,7 +10297,7 @@
   {
     "input": "We can consider three possible changes:",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "So you know him?",
@@ -10307,7 +10307,7 @@
   {
     "input": "From behind the sergeant, an askari shouts at Tepilit.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "This woman has come from far away to write about your people.",
@@ -10347,7 +10347,7 @@
   {
     "input": "Claudia sits with her eyes downcast.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Powers of acceleration and braking are remarkable, the latter far greater than any car.",
@@ -10357,7 +10357,7 @@
   {
     "input": "That's my ticket, not yours why are you saying thank you!",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Psychological theories, however, see these characteristics as a result of unusual or abnormal experiences, rather than as inherited.",
@@ -10462,12 +10462,12 @@
   {
     "input": "So many places Barry are going down",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "they've put twelve, thirteen hundred in.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Where to park?",
@@ -10497,7 +10497,7 @@
   {
     "input": "No I didn't feel alright Ann.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â I'd have liked to have had Rickie Crowninshield in my platoon for just five minutes.",
@@ -10522,7 +10522,7 @@
   {
     "input": "We need we needs lots of piles of steaming horse manure and things don't we around and",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You never know",
@@ -10542,7 +10542,7 @@
   {
     "input": "I searched him and his luggage, and he was clean.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "This violent event, described at length in hysterically colourful terms, is the only piece of history to be woven convincingly into the plot.",
@@ -10567,7 +10567,7 @@
   {
     "input": "The rest of the questionnaire about science curiosity showed that all the children were enthusiastic about learning science, and that girls were keen to know more about nature, the environment and medical science.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The Resistance was a unique experience for them, and they wanted to preserve its experience in the new French politics because this experience broke away from the famous dilemma of being and doing, which confronts all intellectuals in the face of action â¦.",
@@ -10612,7 +10612,7 @@
   {
     "input": "What happens if her father is unwilling or unable to stay at home with her?",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "They've all finished early, they've unless they came in late with the order or something, extras or something.",
@@ -10627,7 +10627,7 @@
   {
     "input": "Save you, save you carrying them.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "The fact is that I have a vacancy arising for a couture model.",
@@ -10887,7 +10887,7 @@
   {
     "input": "â Its main concerns would become food and the people who consume it, not farming and those who produce it.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "He took my best animal, even though I offered two in its place.",
@@ -10937,7 +10937,7 @@
   {
     "input": "How's it going?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "In the development through the years of adolescence the number of foreclosure pupils will diminish, hence the recruitment of boys into science would be cut.",
@@ -10997,7 +10997,7 @@
   {
     "input": "Oh Jesus Christ! â suppose there's something major?",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Our latest Foreign Secretary has yet to publicly pick up the file marked Hong Kong.",
@@ -11017,7 +11017,7 @@
   {
     "input": "Your people do not believe it is right to offer cows to his family.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "What were you shouting then?",
@@ -11037,7 +11037,7 @@
   {
     "input": "Then there are the imports: 83,000 tonnes of toxic waste enter British ports annually for incineration or other treatment, a figure which has increased 20-fold in just eight years.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Now they guard the body, which is motionless in a lake of blood that is rapidly drying, drunk by the thirsty, insatiable soil.",
@@ -11067,12 +11067,12 @@
   {
     "input": "Do you get one of these Ann?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "You can not kill a man deliberately.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Can you pass me that er, sheet?",
@@ -11142,7 +11142,7 @@
   {
     "input": "decide on the Monday, so you'll have to cancel",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Schopenhauer said that women remain big children all their lives; it would be interesting to know what he thought children were like.",
@@ -11197,7 +11197,7 @@
   {
     "input": "â What are you doing here? he asked without moving his lips.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â I noticed that Rickie wasn't eating today, I said, â but Robin-Anne was?",
@@ -11242,7 +11242,7 @@
   {
     "input": "How do you know which way",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Who's who's gon na know when they to compile a dictionary and what words you use who's gon na know who you are?",
@@ -11277,7 +11277,7 @@
   {
     "input": "Ann's had, Merv, John Teresa, Paul and Vi's all trussing done the rest the of my trussing, I've done the Char Grill, I've done Welcome Break, now they're on the Tesco.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Right stay there, don't move.",
@@ -11337,7 +11337,7 @@
   {
     "input": "Liverpool dockers recently turned back parts of a 1,500-tonne consignment of Canadian PCBs( polychlorinated biphenyls) bound for this plant in Gwent.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "They have an â immature deliberative faculty( Aristotle), are not â endued with Reason( Hobbes), until roughly the age of 10( Kant) and are â incapable of being acted upon by rational consideration of distant motives( Mill).",
@@ -11347,7 +11347,7 @@
   {
     "input": "What they doing another sponsored slim are they?",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "By the time Vidal Sassoon had finished with her Paula's long fair locks had been shorn to a sharp geometric shape and she scarcely recognised the reflection that looked back at her from the mirror.",
@@ -11407,7 +11407,7 @@
   {
     "input": "Yeah, but it's somebody sitting in an office in n it deciding this!",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Fairfax grasps the old man by his wrist.",
@@ -11467,7 +11467,7 @@
   {
     "input": "Sort of jewellery you see.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â I'm afraid it's gone off to the High Court, sir.",
@@ -11562,7 +11562,7 @@
   {
     "input": "He lived locally, so how did neighbours view his job here?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "In Milan, for example, the commission to design the new generation of â Jumbo trams, which went into service in 1979, was one that leading Italian architects and designers fought over.",
@@ -11572,7 +11572,7 @@
   {
     "input": "Claudia and Fairfax approach each other.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "A change in the tax rules affecting pensions was shortly followed by a job with the Department of Environment's Property Services Agency, a post which carries him through to March and may see him stay until he is 70.",
@@ -11622,7 +11622,7 @@
   {
     "input": "In here, they burn about 30,000 tonnes of chemicals a year, a quarter originating outside Britain.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Pupils in action schools became markedly less stereotyped than pupils in control schools.",
@@ -11682,7 +11682,7 @@
   {
     "input": "Do you feel better now?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "They want to take our cows to pay for the war.",
@@ -11707,7 +11707,7 @@
   {
     "input": "He is wearing a blue tunic and around his shoulders is a fur cloak made of the skins of the hyrax.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "There is obviously something wrong with a portrayal of children as totally lacking in reason until they leap out of bed on their tenth birthday announcing that they are now able to act on principle.",
@@ -11717,7 +11717,7 @@
   {
     "input": "He wanted blood, any blood.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Trade you in for a couple of camels, he'd come home with a couple of camels",
@@ -11782,7 +11782,7 @@
   {
     "input": "Oh is it rave night tomorrow",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "No that's what I say if calculated wrong",
@@ -11837,7 +11837,7 @@
   {
     "input": "No they think it's really bad.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Ann thirty five and he's speeding now.",
@@ -11887,7 +11887,7 @@
   {
     "input": "No I know time you get it back here it is.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "But I have tried to talk to him, to persuade him to say that he thought the askaris were going to shoot him or that it was a misunderstanding, but he refuse absolutely to excuse himself.",
@@ -11902,12 +11902,12 @@
   {
     "input": "â What I want to say is this, there was a misunderstanding.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Mm, it would bounce up and down like a yo-yo",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "drop off",
@@ -11932,7 +11932,7 @@
   {
     "input": "The plane is still now, surrounded by the warriors.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Well then you'd laugh I should think, knowing you!",
@@ -11942,12 +11942,12 @@
   {
     "input": "Oh I see.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Pumps sucked air inwards.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "First of all, let us remind ourselves of the traditional picture of children drawn for us by some great philosophers of the past.",
@@ -11997,7 +11997,7 @@
   {
     "input": "I couldn't believe my ears!",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "His mother, by contrast, is the most vividly realised character in the book: nervy, flirtatious and selfish, already on her third husband, she thinks primarily of her appearance, even when visiting her dying daughter, Francis's twin.",
@@ -12082,12 +12082,12 @@
   {
     "input": "Get and that and all's there anyway.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "She holds her hat on her head with one hand.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "sentence",
@@ -12167,7 +12167,7 @@
   {
     "input": "I like sailing alone at night.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Yet it was Mr Clarke, not Mr Nichol, who was involved in the critical decisions â the cash limit for the NHS, the 6.5 per cent offer to ambulance workers( compared to seven per cent for nurses, eight per cent for doctors and nine per cent for ancillary workers); and today's introduction of military ambulances.",
@@ -12247,7 +12247,7 @@
   {
     "input": "You have to help me, Tom.",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "One of the region's strangest townlets sits on those marshes: Brouage.",
@@ -12267,7 +12267,7 @@
   {
     "input": "for the third of January, then he goes back tenth cos his",
     "label": "no",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Oh yeah",
@@ -12292,7 +12292,7 @@
   {
     "input": "Up, up the alleyway by the Yorkshire, you got Yorkshire House there",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Thus were explained anatomically the enormous jaws, high cheek bones, prominent superciliary arches, solitary lines on the palms, extreme size of the orbits, handle-shaped or sessile ears found in criminals, savages and apes, insensibility of pain, extremely acute sight, tattooing, excessive idleness, love of orgies and the craving for evil for its own sake â¦",
@@ -12462,7 +12462,7 @@
   {
     "input": "look as though you book it then",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "â Do you realize what will happen to you if you are tried?",
@@ -12482,7 +12482,7 @@
   {
     "input": "At a nearby house, Leonard Hough, a retired schoolmaster, had earlier told me about â the fog which he says comes from the factory.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "But Aulnay, just over 10 miles north-east of St Jean, is probably the best, its unassuming architecture a perfect frame for the sheer artistry of the carvings round its doors and windows.",
@@ -12662,7 +12662,7 @@
   {
     "input": "Gary was in the workroom when Paula arrived, pinning a length of vibrant pink chiffon sarong-style around one of his models.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "I like the purposefulness of a boat at night as it slits a path across an empty planet.",
@@ -12687,7 +12687,7 @@
   {
     "input": "Tepilit makes a gesture by placing his hand to his throat and cupping it.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "â You are going to be married?",
@@ -12707,7 +12707,7 @@
   {
     "input": "I've only got until tomorrow.",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "to go over don't they?",
@@ -12827,7 +12827,7 @@
   {
     "input": "Yeah yeah and I mean yeah We'll definitely be finished in about an hour",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "It is no accident that the liberation of women, such as it is, should form part of a wider movement of liberation in general; liberation for one part of the â not-men is bound to have a knock-on effect when your fellow groups are sometimes quite literally identified with you.",
@@ -12852,7 +12852,7 @@
   {
     "input": "â My heart is breaking, she says.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "The girl behind the till stared at her stonily.",
@@ -12902,7 +12902,7 @@
   {
     "input": "Yeah can't grumble.",
     "label": "no",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "The preponderance of boys at the foreclosure stage will yield the rigid, authoritarian attitudes often associated with scientists.",
@@ -12912,7 +12912,7 @@
   {
     "input": "sort of sit there putting what the solicitor said in your",
     "label": "yes",
-    "response": "yes"
+    "response": "no"
   },
   {
     "input": "Claudia walks over towards the plane.",
@@ -13022,12 +13022,12 @@
   {
     "input": "Sentue takes a few moments to reply.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "And it hasn't been sorted yet?",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "In contrast, other boys and most girls pondered the possible causes and ways of integrating the child into the group.",
@@ -13192,7 +13192,7 @@
   {
     "input": "Fahfakhs said that.",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Do you er",
@@ -13227,7 +13227,7 @@
   {
     "input": "What we know about persons choosing science",
     "label": "yes",
-    "response": "no"
+    "response": "yes"
   },
   {
     "input": "Female exclusion from science and technology, even if it is apparently by girls' own choice, also means that as citizens their ability to understand and control their environment is limited.",

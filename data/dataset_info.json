@@ -7,6 +7,10 @@
     "file_name": "MOH-X_train_hard.json",
     "file_sha1": "f55b5518702990374048051dcdcf523d77ee083e"
   },
+  "VUAverb_train_easy": {
+    "file_name": "VUAverb_train_easy.json",
+    "file_sha1": "671338dd132b63b0edee5e72fb5fb32077696e1e"
+  },
   "TroFi_test": {
     "file_name": "TroFi_test.json",
     "file_sha1": "85465cec367df934eb8e06872a07427f5d1e0c55"
@@ -14,10 +18,6 @@
   "VUA18_train_easy": {
     "file_name": "VUA18_train_easy.json",
     "file_sha1": "28918264485d82cd1ca80d8f56228424afc1a55e"
-  },
-  "VUAverb_train_vicuna-7b-v1.5_easy": {
-    "file_name": "VUAverb_train_vicuna-7b-v1.5_easy.json",
-    "file_sha1": "671338dd132b63b0edee5e72fb5fb32077696e1e"
   },
   "VUA18_train": {
     "file_name": "VUA18_train.json",
@@ -63,13 +63,9 @@
     "file_name": "TroFi_train_vicuna-7b-v1.5-0_easy.json",
     "file_sha1": "4eb2aeaceaf1fd03e6fe991f1ecfd0dd9dc08362"
   },
-  "VUAverb_train_vicuna-7b-v1.5_medi": {
-    "file_name": "VUAverb_train_vicuna-7b-v1.5_medi.json",
-    "file_sha1": "c3183871b4c53ff97cbbb00f1c6efced1c42d0ac"
-  },
-  "VUAverb_train_vicuna-7b-v1.5_hard": {
-    "file_name": "VUAverb_train_vicuna-7b-v1.5_hard.json",
-    "file_sha1": "504d62851d3548e1f0d4c4be50a07d19e9f9f118"
+  "TroFi_train_cl": {
+    "file_name": "TroFi_train_cl.json",
+    "file_sha1": "89a69f0b50814d17691fcbbe514fe8e294f94c59"
   },
   "TroFi_train_vicuna-7b-v1.5-0_medi": {
     "file_name": "TroFi_train_vicuna-7b-v1.5-0_medi.json",
@@ -99,6 +95,10 @@
     "file_name": "meta_train_glm3_medi.json",
     "file_sha1": "4016fb0d9a7d4b44a8fd37dd786db580a47387d4"
   },
+  "VUAverb_train_hard": {
+    "file_name": "VUAverb_train_hard.json",
+    "file_sha1": "504d62851d3548e1f0d4c4be50a07d19e9f9f118"
+  },
   "VUA20_train_hard": {
     "file_name": "VUA20_train_hard.json",
     "file_sha1": "64d4a047bbb11ee4f1b404748ffbe0783d7024b3"
@@ -114,6 +114,10 @@
   "ccl_train_base_qwen_easy": {
     "file_name": "ccl_train_base_qwen_easy.json",
     "file_sha1": "5d0649e2889ec9f028075bd3cd0fd5461cfc7655"
+  },
+  "VUAverb_train_medi": {
+    "file_name": "VUAverb_train_medi.json",
+    "file_sha1": "c3183871b4c53ff97cbbb00f1c6efced1c42d0ac"
   },
   "MOH-X_train_easy": {
     "file_name": "MOH-X_train_easy.json",

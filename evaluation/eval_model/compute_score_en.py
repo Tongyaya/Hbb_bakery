@@ -56,5 +56,6 @@ def scorecompute(file_path):
     write2res(badcase,badcase_path)
     write2res(res,result_path)
 
-file_path = 'gpt2_mdei_VUA18_train_VUA18_test.json'
+file_path = 'gpt2_mdei_VUAverb_alpha0.9_lamda0.5_train_4_VUAverb_test.json'
+print(file_path)
 scorecompute(file_path)

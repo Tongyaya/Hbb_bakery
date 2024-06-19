@@ -1,7 +1,8 @@
 import json
 from tqdm import tqdm
 
-path = './difficulty/vicuna/VUA18_train_vicuna-7b-v1.5.json'
+path = './difficulty/vicuna/VUAverb_train.json'
+score_path = path.replace('.json','_score.json')
 easy_path = path.replace('.json','_easy.json')
 hard_path = path.replace('.json','_hard.json')
 medi_path = path.replace('.json','_medi.json')
@@ -11,6 +12,7 @@ res = [0,0,0,0,0,0,0,0,0,0,0]
 easy = []
 hard = []
 medi = []
+out = []
 # instruction = '''辨别隐喻通常遵循以下步骤：
 # （a） 分析并确定话语语境中每个词汇单元的含义。
 # （b） 确定每个词汇单元在其他语境中是否比在给定的话语语境中具有更基本的含义。
@@ -35,16 +37,20 @@ for item in tqdm(data):
         if response == label:
             cnt+=1
     res[cnt] += 1
+    p = cnt/10
+    out.append ({'instruction':instruction,'input': inputs, 'output': label,'p':p})
     if cnt == 10:
-        easy.append ({'instruction':instruction,'input': inputs, 'output': label})
+        easy.append ({'instruction':instruction,'input': inputs, 'output': label,'p':p})
     elif cnt == 0:
-        hard.append ({'instruction':instruction,'input': inputs, 'output': label})
+        hard.append ({'instruction':instruction,'input': inputs, 'output': label,'p':p})
     else:
-        medi.append ({'instruction':instruction,'input': inputs, 'output': label})
+        medi.append ({'instruction':instruction,'input': inputs, 'output': label,'p':p})
 print(res)
-with open(easy_path, 'w', encoding='utf-8') as json_file:
-    json.dump(easy, json_file, indent=2, ensure_ascii=False)
-with open(hard_path, 'w', encoding='utf-8') as json_file:
-    json.dump(hard, json_file, indent=2, ensure_ascii=False)
-with open(medi_path, 'w', encoding='utf-8') as json_file:
-    json.dump(medi, json_file, indent=2, ensure_ascii=False)
+with open(score_path, 'w', encoding='utf-8') as json_file:
+    json.dump(out, json_file, indent=2, ensure_ascii=False)
+# with open(easy_path, 'w', encoding='utf-8') as json_file:
+#     json.dump(easy, json_file, indent=2, ensure_ascii=False)
+# with open(hard_path, 'w', encoding='utf-8') as json_file:
+#     json.dump(hard, json_file, indent=2, ensure_ascii=False)
+# with open(medi_path, 'w', encoding='utf-8') as json_file:
+#     json.dump(medi, json_file, indent=2, ensure_ascii=False)
